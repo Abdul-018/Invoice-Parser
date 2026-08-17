@@ -1,0 +1,2608 @@
+[
+  {
+    "vendor_name": "Client Company 1001 LLC",
+    "invoice_number": "INV-1001",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 280.4,
+        "total_price": 1121.6
+      }
+    ],
+    "subtotal": 1121.6,
+    "tax_amount": 89.73,
+    "total_amount": 1211.33
+  },
+  {
+    "vendor_name": "Client Company 1002 LLC",
+    "invoice_number": "INV-1002",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 9.0,
+        "unit_price": 390.09,
+        "total_price": 3510.81
+      },
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 324.35,
+        "total_price": 2594.8
+      },
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 111.72,
+        "total_price": 335.16
+      },
+      {
+        "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 148.15,
+        "total_price": 1481.5
+      }
+    ],
+    "subtotal": 7922.27,
+    "tax_amount": 633.78,
+    "total_amount": 8556.05
+  },
+  {
+    "vendor_name": "Client Company 1003 LLC",
+    "invoice_number": "INV-1003",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 226.67,
+        "total_price": 1133.35
+      }
+    ],
+    "subtotal": 1133.35,
+    "tax_amount": 90.67,
+    "total_amount": 1224.02
+  },
+  {
+    "vendor_name": "Client Company 1004 LLC",
+    "invoice_number": "INV-1004",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 68.51,
+        "total_price": 68.51
+      }
+    ],
+    "subtotal": 68.51,
+    "tax_amount": 5.48,
+    "total_amount": 73.99
+  },
+  {
+    "vendor_name": "Client Company 1005 LLC",
+    "invoice_number": "INV-1005",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 202.47,
+        "total_price": 1012.35
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 373.55,
+        "total_price": 3735.5
+      },
+      {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 241.09,
+        "total_price": 1687.63
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 149.03,
+        "total_price": 1043.21
+      }
+    ],
+    "subtotal": 7478.69,
+    "tax_amount": 598.3,
+    "total_amount": 8076.99
+  },
+  {
+    "vendor_name": "Client Company 1006 LLC",
+    "invoice_number": "INV-1006",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 490.64,
+        "total_price": 981.28
+      }
+    ],
+    "subtotal": 981.28,
+    "tax_amount": 78.5,
+    "total_amount": 1059.78
+  },
+  {
+    "vendor_name": "Client Company 1007 LLC",
+    "invoice_number": "INV-1007",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 68.27,
+        "total_price": 477.89
+      },
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 237.36,
+        "total_price": 1424.16
+      },
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 206.94,
+        "total_price": 2069.4
+      },
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 107.17,
+        "total_price": 107.17
+      }
+    ],
+    "subtotal": 4078.62,
+    "tax_amount": 326.29,
+    "total_amount": 4404.91
+  },
+  {
+    "vendor_name": "Client Company 1008 LLC",
+    "invoice_number": "INV-1008",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 10.0,
+        "unit_price": 66.35,
+        "total_price": 663.5
+      },
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 67.54,
+        "total_price": 472.78
+      }
+    ],
+    "subtotal": 1136.28,
+    "tax_amount": 90.9,
+    "total_amount": 1227.18
+  },
+  {
+    "vendor_name": "Client Company 1009 LLC",
+    "invoice_number": "INV-1009",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 407.93,
+        "total_price": 1223.79
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 330.25,
+        "total_price": 990.75
+      },
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 472.36,
+        "total_price": 472.36
+      },
+      {
+        "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 236.08,
+        "total_price": 2360.8
+      }
+    ],
+    "subtotal": 5047.7,
+    "tax_amount": 403.82,
+    "total_amount": 5451.52
+  },
+  {
+    "vendor_name": "Client Company 1010 LLC",
+    "invoice_number": "INV-1010",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 224.96,
+        "total_price": 224.96
+      },
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 229.49,
+        "total_price": 458.98
+      }
+    ],
+    "subtotal": 683.94,
+    "tax_amount": 54.72,
+    "total_amount": 738.66
+  },
+  {
+    "vendor_name": "Client Company 1011 LLC",
+    "invoice_number": "INV-1011",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 8.0,
+        "unit_price": 114.31,
+        "total_price": 914.48
+      }
+    ],
+    "subtotal": 914.48,
+    "tax_amount": 73.16,
+    "total_amount": 987.64
+  },
+  {
+    "vendor_name": "Client Company 1012 LLC",
+    "invoice_number": "INV-1012",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 208.76,
+        "total_price": 1461.32
+      },
+      {
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 309.51,
+        "total_price": 1857.06
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 464.53,
+        "total_price": 929.06
+      },
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 82.91,
+        "total_price": 248.73
+      }
+    ],
+    "subtotal": 4496.17,
+    "tax_amount": 359.69,
+    "total_amount": 4855.86
+  },
+  {
+    "vendor_name": "Client Company 1013 LLC",
+    "invoice_number": "INV-1013",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 320.58,
+        "total_price": 641.16
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 8.0,
+        "unit_price": 453.76,
+        "total_price": 3630.08
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 456.89,
+        "total_price": 4112.01
+      }
+    ],
+    "subtotal": 8383.25,
+    "tax_amount": 670.66,
+    "total_amount": 9053.91
+  },
+  {
+    "vendor_name": "Client Company 1014 LLC",
+    "invoice_number": "INV-1014",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 180.38,
+        "total_price": 1082.28
+      },
+      {
+        "description": "Software License",
+        "quantity": 5.0,
+        "unit_price": 395.81,
+        "total_price": 1979.05
+      }
+    ],
+    "subtotal": 3061.33,
+    "tax_amount": 244.91,
+    "total_amount": 3306.24
+  },
+  {
+    "vendor_name": "Client Company 1015 LLC",
+    "invoice_number": "INV-1015",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 149.14,
+        "total_price": 1342.26
+      }
+    ],
+    "subtotal": 1342.26,
+    "tax_amount": 107.38,
+    "total_amount": 1449.64
+  },
+  {
+    "vendor_name": "Client Company 1016 LLC",
+    "invoice_number": "INV-1016",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 166.55,
+        "total_price": 1165.85
+      },
+      {
+        "description": "Design",
+        "quantity": 6.0,
+        "unit_price": 298.19,
+        "total_price": 1789.14
+      },
+      {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 228.49,
+        "total_price": 913.96
+      }
+    ],
+    "subtotal": 3868.95,
+    "tax_amount": 309.52,
+    "total_amount": 4178.47
+  },
+  {
+    "vendor_name": "Client Company 1017 LLC",
+    "invoice_number": "INV-1017",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 3.0,
+        "unit_price": 464.07,
+        "total_price": 1392.21
+      },
+      {
+        "description": "Software License",
+        "quantity": 7.0,
+        "unit_price": 332.77,
+        "total_price": 2329.39
+      },
+      {
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 361.1,
+        "total_price": 2166.6
+      },
+      {
+        "description": "Software License",
+        "quantity": 2.0,
+        "unit_price": 470.66,
+        "total_price": 941.32
+      }
+    ],
+    "subtotal": 6829.52,
+    "tax_amount": 546.36,
+    "total_amount": 7375.88
+  },
+  {
+    "vendor_name": "Client Company 1018 LLC",
+    "invoice_number": "INV-1018",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 111.47,
+        "total_price": 445.88
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 359.91,
+        "total_price": 1079.73
+      }
+    ],
+    "subtotal": 1525.61,
+    "tax_amount": 122.05,
+    "total_amount": 1647.66
+  },
+  {
+    "vendor_name": "Client Company 1019 LLC",
+    "invoice_number": "INV-1019",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 5.0,
+        "unit_price": 405.07,
+        "total_price": 2025.35
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 461.1,
+        "total_price": 922.2
+      },
+      {
+        "description": "Support",
+        "quantity": 1.0,
+        "unit_price": 472.34,
+        "total_price": 472.34
+      }
+    ],
+    "subtotal": 3419.89,
+    "tax_amount": 273.59,
+    "total_amount": 3693.48
+  },
+  {
+    "vendor_name": "Client Company 1020 LLC",
+    "invoice_number": "INV-1020",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 313.83,
+        "total_price": 2824.47
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 120.63,
+        "total_price": 120.63
+      },
+      {
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 226.7,
+        "total_price": 1133.5
+      }
+    ],
+    "subtotal": 4078.6,
+    "tax_amount": 326.29,
+    "total_amount": 4404.89
+  },
+  {
+    "vendor_name": "Client Company 1021 LLC",
+    "invoice_number": "INV-1021",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 2.0,
+        "unit_price": 240.03,
+        "total_price": 480.06
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 57.26,
+        "total_price": 229.04
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 410.6,
+        "total_price": 2874.2
+      }
+    ],
+    "subtotal": 3583.3,
+    "tax_amount": 286.66,
+    "total_amount": 3869.96
+  },
+  {
+    "vendor_name": "Client Company 1022 LLC",
+    "invoice_number": "INV-1022",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 376.42,
+        "total_price": 1505.68
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 279.06,
+        "total_price": 1116.24
+      }
+    ],
+    "subtotal": 2621.92,
+    "tax_amount": 209.75,
+    "total_amount": 2831.67
+  },
+  {
+    "vendor_name": "Client Company 1023 LLC",
+    "invoice_number": "INV-1023",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 393.28,
+        "total_price": 3539.52
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 491.22,
+        "total_price": 3929.76
+      }
+    ],
+    "subtotal": 7469.28,
+    "tax_amount": 597.54,
+    "total_amount": 8066.82
+  },
+  {
+    "vendor_name": "Client Company 1024 LLC",
+    "invoice_number": "INV-1024",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 145.27,
+        "total_price": 726.35
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 56.38,
+        "total_price": 169.14
+      },
+      {
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 474.38,
+        "total_price": 4269.42
+      }
+    ],
+    "subtotal": 5164.91,
+    "tax_amount": 413.19,
+    "total_amount": 5578.1
+  },
+  {
+    "vendor_name": "Client Company 1025 LLC",
+    "invoice_number": "INV-1025",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 461.85,
+        "total_price": 923.7
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 419.55,
+        "total_price": 3356.4
+      },
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 483.21,
+        "total_price": 483.21
+      }
+    ],
+    "subtotal": 4763.31,
+    "tax_amount": 381.06,
+    "total_amount": 5144.37
+  },
+  {
+    "vendor_name": "Client Company 1026 LLC",
+    "invoice_number": "INV-1026",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 218.85,
+        "total_price": 1094.25
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 162.25,
+        "total_price": 1298.0
+      },
+      {
+        "description": "Support",
+        "quantity": 1.0,
+        "unit_price": 183.66,
+        "total_price": 183.66
+      }
+    ],
+    "subtotal": 2575.91,
+    "tax_amount": 206.07,
+    "total_amount": 2781.98
+  },
+  {
+    "vendor_name": "Client Company 1027 LLC",
+    "invoice_number": "INV-1027",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 186.59,
+        "total_price": 1306.13
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 131.85,
+        "total_price": 1318.5
+      }
+    ],
+    "subtotal": 2624.63,
+    "tax_amount": 209.97,
+    "total_amount": 2834.6
+  },
+  {
+    "vendor_name": "Client Company 1028 LLC",
+    "invoice_number": "INV-1028",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 275.49,
+        "total_price": 2203.92
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 227.87,
+        "total_price": 683.61
+      },
+      {
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 371.52,
+        "total_price": 3343.68
+      }
+    ],
+    "subtotal": 6231.21,
+    "tax_amount": 498.5,
+    "total_amount": 6729.71
+  },
+  {
+    "vendor_name": "Client Company 1029 LLC",
+    "invoice_number": "INV-1029",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 5.0,
+        "unit_price": 288.49,
+        "total_price": 1442.45
+      },
+      {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 363.66,
+        "total_price": 2545.62
+      }
+    ],
+    "subtotal": 3988.07,
+    "tax_amount": 319.05,
+    "total_amount": 4307.12
+  },
+  {
+    "vendor_name": "Client Company 1030 LLC",
+    "invoice_number": "INV-1030",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 451.18,
+        "total_price": 1804.72
+      },
+      {
+        "description": "Design",
+        "quantity": 3.0,
+        "unit_price": 126.62,
+        "total_price": 379.86
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 178.2,
+        "total_price": 891.0
+      }
+    ],
+    "subtotal": 3075.58,
+    "tax_amount": 246.05,
+    "total_amount": 3321.63
+  },
+  {
+    "vendor_name": "Client Company 1031 LLC",
+    "invoice_number": "INV-1031",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 164.26,
+        "total_price": 985.56
+      },
+      {
+        "description": "Support",
+        "quantity": 5.0,
+        "unit_price": 290.77,
+        "total_price": 1453.85
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 291.42,
+        "total_price": 2331.36
+      }
+    ],
+    "subtotal": 4770.77,
+    "tax_amount": 381.66,
+    "total_amount": 5152.43
+  },
+  {
+    "vendor_name": "Client Company 1032 LLC",
+    "invoice_number": "INV-1032",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 445.41,
+        "total_price": 4454.1
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 417.02,
+        "total_price": 3336.16
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 337.8,
+        "total_price": 1351.2
+      }
+    ],
+    "subtotal": 9141.46,
+    "tax_amount": 731.32,
+    "total_amount": 9872.78
+  },
+  {
+    "vendor_name": "Client Company 1033 LLC",
+    "invoice_number": "INV-1033",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 201.44,
+        "total_price": 402.88
+      },
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 139.74,
+        "total_price": 139.74
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 383.07,
+        "total_price": 3447.63
+      }
+    ],
+    "subtotal": 3990.25,
+    "tax_amount": 319.22,
+    "total_amount": 4309.47
+  },
+  {
+    "vendor_name": "Client Company 1034 LLC",
+    "invoice_number": "INV-1034",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 10.0,
+        "unit_price": 165.67,
+        "total_price": 1656.7
+      }
+    ],
+    "subtotal": 1656.7,
+    "tax_amount": 132.54,
+    "total_amount": 1789.24
+  },
+  {
+    "vendor_name": "Client Company 1035 LLC",
+    "invoice_number": "INV-1035",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 237.94,
+        "total_price": 1665.58
+      }
+    ],
+    "subtotal": 1665.58,
+    "tax_amount": 133.25,
+    "total_amount": 1798.83
+  },
+  {
+    "vendor_name": "Client Company 1036 LLC",
+    "invoice_number": "INV-1036",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 248.43,
+        "total_price": 1242.15
+      },
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 435.36,
+        "total_price": 3918.24
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 449.41,
+        "total_price": 898.82
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 93.3,
+        "total_price": 653.1
+      }
+    ],
+    "subtotal": 6712.31,
+    "tax_amount": 536.98,
+    "total_amount": 7249.29
+  },
+  {
+    "vendor_name": "Client Company 1037 LLC",
+    "invoice_number": "INV-1037",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 221.48,
+        "total_price": 1328.88
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 430.72,
+        "total_price": 2584.32
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 457.9,
+        "total_price": 457.9
+      }
+    ],
+    "subtotal": 4371.1,
+    "tax_amount": 349.69,
+    "total_amount": 4720.79
+  },
+  {
+    "vendor_name": "Client Company 1038 LLC",
+    "invoice_number": "INV-1038",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 9.0,
+        "unit_price": 80.28,
+        "total_price": 722.52
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 125.75,
+        "total_price": 377.25
+      }
+    ],
+    "subtotal": 1099.77,
+    "tax_amount": 87.98,
+    "total_amount": 1187.75
+  },
+  {
+    "vendor_name": "Client Company 1039 LLC",
+    "invoice_number": "INV-1039",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 481.77,
+        "total_price": 3854.16
+      }
+    ],
+    "subtotal": 3854.16,
+    "tax_amount": 308.33,
+    "total_amount": 4162.49
+  },
+  {
+    "vendor_name": "Client Company 1040 LLC",
+    "invoice_number": "INV-1040",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 257.12,
+        "total_price": 514.24
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 383.77,
+        "total_price": 767.54
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 428.22,
+        "total_price": 1712.88
+      },
+      {
+        "description": "Software License",
+        "quantity": 7.0,
+        "unit_price": 492.61,
+        "total_price": 3448.27
+      }
+    ],
+    "subtotal": 6442.93,
+    "tax_amount": 515.43,
+    "total_amount": 6958.36
+  },
+  {
+    "vendor_name": "Client Company 1041 LLC",
+    "invoice_number": "INV-1041",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 8.0,
+        "unit_price": 111.53,
+        "total_price": 892.24
+      },
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 240.19,
+        "total_price": 1441.14
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 77.82,
+        "total_price": 77.82
+      }
+    ],
+    "subtotal": 2411.2,
+    "tax_amount": 192.9,
+    "total_amount": 2604.1
+  },
+  {
+    "vendor_name": "Client Company 1042 LLC",
+    "invoice_number": "INV-1042",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 398.75,
+        "total_price": 2791.25
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 193.06,
+        "total_price": 1544.48
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 490.89,
+        "total_price": 1472.67
+      }
+    ],
+    "subtotal": 5808.4,
+    "tax_amount": 464.67,
+    "total_amount": 6273.07
+  },
+  {
+    "vendor_name": "Client Company 1043 LLC",
+    "invoice_number": "INV-1043",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 264.76,
+        "total_price": 794.28
+      }
+    ],
+    "subtotal": 794.28,
+    "tax_amount": 63.54,
+    "total_amount": 857.82
+  },
+  {
+    "vendor_name": "Client Company 1044 LLC",
+    "invoice_number": "INV-1044",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 477.3,
+        "total_price": 3818.4
+      },
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 118.79,
+        "total_price": 1187.9
+      },
+      {
+        "description": "Design",
+        "quantity": 6.0,
+        "unit_price": 150.88,
+        "total_price": 905.28
+      }
+    ],
+    "subtotal": 5911.58,
+    "tax_amount": 472.93,
+    "total_amount": 6384.51
+  },
+  {
+    "vendor_name": "Client Company 1045 LLC",
+    "invoice_number": "INV-1045",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 74.55,
+        "total_price": 298.2
+      }
+    ],
+    "subtotal": 298.2,
+    "tax_amount": 23.86,
+    "total_amount": 322.06
+  },
+  {
+    "vendor_name": "Client Company 1046 LLC",
+    "invoice_number": "INV-1046",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 415.63,
+        "total_price": 1246.89
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 127.75,
+        "total_price": 127.75
+      }
+    ],
+    "subtotal": 1374.64,
+    "tax_amount": 109.97,
+    "total_amount": 1484.61
+  },
+  {
+    "vendor_name": "Client Company 1047 LLC",
+    "invoice_number": "INV-1047",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 272.3,
+        "total_price": 1089.2
+      },
+      {
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 436.89,
+        "total_price": 3495.12
+      },
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 246.32,
+        "total_price": 2216.88
+      }
+    ],
+    "subtotal": 6801.2,
+    "tax_amount": 544.1,
+    "total_amount": 7345.3
+  },
+  {
+    "vendor_name": "Client Company 1048 LLC",
+    "invoice_number": "INV-1048",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 286.07,
+        "total_price": 858.21
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 317.26,
+        "total_price": 3172.6
+      }
+    ],
+    "subtotal": 4030.81,
+    "tax_amount": 322.46,
+    "total_amount": 4353.27
+  },
+  {
+    "vendor_name": "Client Company 1049 LLC",
+    "invoice_number": "INV-1049",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 376.78,
+        "total_price": 2637.46
+      }
+    ],
+    "subtotal": 2637.46,
+    "tax_amount": 211.0,
+    "total_amount": 2848.46
+  },
+  {
+    "vendor_name": "Client Company 1050 LLC",
+    "invoice_number": "INV-1050",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 480.22,
+        "total_price": 4802.2
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 394.32,
+        "total_price": 2760.24
+      }
+    ],
+    "subtotal": 7562.44,
+    "tax_amount": 605.0,
+    "total_amount": 8167.44
+  },
+  {
+    "vendor_name": "Client Company 1051 LLC",
+    "invoice_number": "INV-1051",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 145.78,
+        "total_price": 583.12
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 55.94,
+        "total_price": 223.76
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 98.17,
+        "total_price": 687.19
+      }
+    ],
+    "subtotal": 1494.07,
+    "tax_amount": 119.53,
+    "total_amount": 1613.6
+  },
+  {
+    "vendor_name": "Client Company 1052 LLC",
+    "invoice_number": "INV-1052",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 306.36,
+        "total_price": 1838.16
+      }
+    ],
+    "subtotal": 1838.16,
+    "tax_amount": 147.05,
+    "total_amount": 1985.21
+  },
+  {
+    "vendor_name": "Client Company 1053 LLC",
+    "invoice_number": "INV-1053",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 328.33,
+        "total_price": 1969.98
+      }
+    ],
+    "subtotal": 1969.98,
+    "tax_amount": 157.6,
+    "total_amount": 2127.58
+  },
+  {
+    "vendor_name": "Client Company 1054 LLC",
+    "invoice_number": "INV-1054",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 116.14,
+        "total_price": 232.28
+      },
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 234.38,
+        "total_price": 234.38
+      },
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 191.09,
+        "total_price": 1528.72
+      },
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 337.48,
+        "total_price": 3374.8
+      }
+    ],
+    "subtotal": 5370.18,
+    "tax_amount": 429.61,
+    "total_amount": 5799.79
+  },
+  {
+    "vendor_name": "Client Company 1055 LLC",
+    "invoice_number": "INV-1055",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 217.32,
+        "total_price": 651.96
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 196.26,
+        "total_price": 392.52
+      },
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 430.23,
+        "total_price": 1290.69
+      },
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 101.31,
+        "total_price": 405.24
+      }
+    ],
+    "subtotal": 2740.41,
+    "tax_amount": 219.23,
+    "total_amount": 2959.64
+  },
+  {
+    "vendor_name": "Client Company 1056 LLC",
+    "invoice_number": "INV-1056",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 424.79,
+        "total_price": 1699.16
+      },
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 252.87,
+        "total_price": 1264.35
+      }
+    ],
+    "subtotal": 2963.51,
+    "tax_amount": 237.08,
+    "total_amount": 3200.59
+  },
+  {
+    "vendor_name": "Client Company 1057 LLC",
+    "invoice_number": "INV-1057",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 315.69,
+        "total_price": 2525.52
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 391.11,
+        "total_price": 782.22
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 244.82,
+        "total_price": 244.82
+      },
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 170.72,
+        "total_price": 1707.2
+      }
+    ],
+    "subtotal": 5259.76,
+    "tax_amount": 420.78,
+    "total_amount": 5680.54
+  },
+  {
+    "vendor_name": "Client Company 1058 LLC",
+    "invoice_number": "INV-1058",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 463.5,
+        "total_price": 3244.5
+      },
+      {
+        "description": "Software License",
+        "quantity": 7.0,
+        "unit_price": 494.39,
+        "total_price": 3460.73
+      }
+    ],
+    "subtotal": 6705.23,
+    "tax_amount": 536.42,
+    "total_amount": 7241.65
+  },
+  {
+    "vendor_name": "Client Company 1059 LLC",
+    "invoice_number": "INV-1059",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 470.87,
+        "total_price": 3766.96
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 82.21,
+        "total_price": 575.47
+      }
+    ],
+    "subtotal": 4342.43,
+    "tax_amount": 347.39,
+    "total_amount": 4689.82
+  },
+  {
+    "vendor_name": "Client Company 1060 LLC",
+    "invoice_number": "INV-1060",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 249.34,
+        "total_price": 1496.04
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 10.0,
+        "unit_price": 64.56,
+        "total_price": 645.6
+      },
+      {
+        "description": "Design",
+        "quantity": 6.0,
+        "unit_price": 388.75,
+        "total_price": 2332.5
+      }
+    ],
+    "subtotal": 4474.14,
+    "tax_amount": 357.93,
+    "total_amount": 4832.07
+  },
+  {
+    "vendor_name": "Client Company 1061 LLC",
+    "invoice_number": "INV-1061",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 458.47,
+        "total_price": 3209.29
+      }
+    ],
+    "subtotal": 3209.29,
+    "tax_amount": 256.74,
+    "total_amount": 3466.03
+  },
+  {
+    "vendor_name": "Client Company 1062 LLC",
+    "invoice_number": "INV-1062",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 452.03,
+        "total_price": 2260.15
+      }
+    ],
+    "subtotal": 2260.15,
+    "tax_amount": 180.81,
+    "total_amount": 2440.96
+  },
+  {
+    "vendor_name": "Client Company 1063 LLC",
+    "invoice_number": "INV-1063",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 58.82,
+        "total_price": 235.28
+      }
+    ],
+    "subtotal": 235.28,
+    "tax_amount": 18.82,
+    "total_amount": 254.1
+  },
+  {
+    "vendor_name": "Client Company 1064 LLC",
+    "invoice_number": "INV-1064",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 9.0,
+        "unit_price": 304.72,
+        "total_price": 2742.48
+      },
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 124.66,
+        "total_price": 498.64
+      },
+      {
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 431.26,
+        "total_price": 3450.08
+      },
+      {
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 104.64,
+        "total_price": 523.2
+      }
+    ],
+    "subtotal": 7214.4,
+    "tax_amount": 577.15,
+    "total_amount": 7791.55
+  },
+  {
+    "vendor_name": "Client Company 1065 LLC",
+    "invoice_number": "INV-1065",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 325.49,
+        "total_price": 325.49
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 75.6,
+        "total_price": 151.2
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 325.13,
+        "total_price": 975.39
+      }
+    ],
+    "subtotal": 1452.08,
+    "tax_amount": 116.17,
+    "total_amount": 1568.25
+  },
+  {
+    "vendor_name": "Client Company 1066 LLC",
+    "invoice_number": "INV-1066",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 281.84,
+        "total_price": 2254.72
+      },
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 213.99,
+        "total_price": 2139.9
+      }
+    ],
+    "subtotal": 4394.62,
+    "tax_amount": 351.57,
+    "total_amount": 4746.19
+  },
+  {
+    "vendor_name": "Client Company 1067 LLC",
+    "invoice_number": "INV-1067",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 254.78,
+        "total_price": 509.56
+      }
+    ],
+    "subtotal": 509.56,
+    "tax_amount": 40.76,
+    "total_amount": 550.32
+  },
+  {
+    "vendor_name": "Client Company 1068 LLC",
+    "invoice_number": "INV-1068",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 151.18,
+        "total_price": 1058.26
+      },
+      {
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 152.72,
+        "total_price": 305.44
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 323.28,
+        "total_price": 1293.12
+      }
+    ],
+    "subtotal": 2656.82,
+    "tax_amount": 212.55,
+    "total_amount": 2869.37
+  },
+  {
+    "vendor_name": "Client Company 1069 LLC",
+    "invoice_number": "INV-1069",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 309.78,
+        "total_price": 2478.24
+      }
+    ],
+    "subtotal": 2478.24,
+    "tax_amount": 198.26,
+    "total_amount": 2676.5
+  },
+  {
+    "vendor_name": "Client Company 1070 LLC",
+    "invoice_number": "INV-1070",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 107.09,
+        "total_price": 107.09
+      }
+    ],
+    "subtotal": 107.09,
+    "tax_amount": 8.57,
+    "total_amount": 115.66
+  },
+  {
+    "vendor_name": "Client Company 1071 LLC",
+    "invoice_number": "INV-1071",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 107.75,
+        "total_price": 969.75
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 227.23,
+        "total_price": 454.46
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 122.76,
+        "total_price": 491.04
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 452.31,
+        "total_price": 1809.24
+      }
+    ],
+    "subtotal": 3724.49,
+    "tax_amount": 297.96,
+    "total_amount": 4022.45
+  },
+  {
+    "vendor_name": "Client Company 1072 LLC",
+    "invoice_number": "INV-1072",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 270.83,
+        "total_price": 2708.3
+      },
+      {
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 415.31,
+        "total_price": 1245.93
+      },
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 309.6,
+        "total_price": 2786.4
+      }
+    ],
+    "subtotal": 6740.63,
+    "tax_amount": 539.25,
+    "total_amount": 7279.88
+  },
+  {
+    "vendor_name": "Client Company 1073 LLC",
+    "invoice_number": "INV-1073",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 464.4,
+        "total_price": 1857.6
+      }
+    ],
+    "subtotal": 1857.6,
+    "tax_amount": 148.61,
+    "total_amount": 2006.21
+  },
+  {
+    "vendor_name": "Client Company 1074 LLC",
+    "invoice_number": "INV-1074",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 374.81,
+        "total_price": 3748.1
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 123.26,
+        "total_price": 493.04
+      },
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 173.0,
+        "total_price": 346.0
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 498.96,
+        "total_price": 1496.88
+      }
+    ],
+    "subtotal": 6084.02,
+    "tax_amount": 486.72,
+    "total_amount": 6570.74
+  },
+  {
+    "vendor_name": "Client Company 1075 LLC",
+    "invoice_number": "INV-1075",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 466.22,
+        "total_price": 1864.88
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 311.48,
+        "total_price": 622.96
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 312.67,
+        "total_price": 1250.68
+      },
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 413.95,
+        "total_price": 827.9
+      }
+    ],
+    "subtotal": 4566.42,
+    "tax_amount": 365.31,
+    "total_amount": 4931.73
+  },
+  {
+    "vendor_name": "Client Company 1076 LLC",
+    "invoice_number": "INV-1076",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 101.83,
+        "total_price": 407.32
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 419.66,
+        "total_price": 2517.96
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 10.0,
+        "unit_price": 247.67,
+        "total_price": 2476.7
+      }
+    ],
+    "subtotal": 5401.98,
+    "tax_amount": 432.16,
+    "total_amount": 5834.14
+  },
+  {
+    "vendor_name": "Client Company 1077 LLC",
+    "invoice_number": "INV-1077",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 122.8,
+        "total_price": 736.8
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 169.01,
+        "total_price": 507.03
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 353.76,
+        "total_price": 3537.6
+      },
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 447.15,
+        "total_price": 894.3
+      }
+    ],
+    "subtotal": 5675.73,
+    "tax_amount": 454.06,
+    "total_amount": 6129.79
+  },
+  {
+    "vendor_name": "Client Company 1078 LLC",
+    "invoice_number": "INV-1078",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 233.93,
+        "total_price": 701.79
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 364.29,
+        "total_price": 2550.03
+      }
+    ],
+    "subtotal": 3251.82,
+    "tax_amount": 260.15,
+    "total_amount": 3511.97
+  },
+  {
+    "vendor_name": "Client Company 1079 LLC",
+    "invoice_number": "INV-1079",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 478.49,
+        "total_price": 3349.43
+      }
+    ],
+    "subtotal": 3349.43,
+    "tax_amount": 267.95,
+    "total_amount": 3617.38
+  },
+  {
+    "vendor_name": "Client Company 1080 LLC",
+    "invoice_number": "INV-1080",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 9.0,
+        "unit_price": 228.68,
+        "total_price": 2058.12
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 189.65,
+        "total_price": 1517.2
+      },
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 377.38,
+        "total_price": 3773.8
+      }
+    ],
+    "subtotal": 7349.12,
+    "tax_amount": 587.93,
+    "total_amount": 7937.05
+  },
+  {
+    "vendor_name": "Client Company 1081 LLC",
+    "invoice_number": "INV-1081",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 363.41,
+        "total_price": 726.82
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 120.18,
+        "total_price": 120.18
+      },
+      {
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 193.28,
+        "total_price": 386.56
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 167.65,
+        "total_price": 670.6
+      }
+    ],
+    "subtotal": 1904.16,
+    "tax_amount": 152.33,
+    "total_amount": 2056.49
+  },
+  {
+    "vendor_name": "Client Company 1082 LLC",
+    "invoice_number": "INV-1082",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 98.55,
+        "total_price": 295.65
+      }
+    ],
+    "subtotal": 295.65,
+    "tax_amount": 23.65,
+    "total_amount": 319.3
+  },
+  {
+    "vendor_name": "Client Company 1083 LLC",
+    "invoice_number": "INV-1083",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 71.07,
+        "total_price": 639.63
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 125.07,
+        "total_price": 1000.56
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 453.13,
+        "total_price": 1812.52
+      }
+    ],
+    "subtotal": 3452.71,
+    "tax_amount": 276.22,
+    "total_amount": 3728.93
+  },
+  {
+    "vendor_name": "Client Company 1084 LLC",
+    "invoice_number": "INV-1084",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 453.94,
+        "total_price": 4539.4
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 151.89,
+        "total_price": 1215.12
+      },
+      {
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 458.13,
+        "total_price": 2748.78
+      }
+    ],
+    "subtotal": 8503.3,
+    "tax_amount": 680.26,
+    "total_amount": 9183.56
+  },
+  {
+    "vendor_name": "Client Company 1085 LLC",
+    "invoice_number": "INV-1085",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 249.01,
+        "total_price": 1992.08
+      },
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 363.09,
+        "total_price": 3267.81
+      },
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 437.04,
+        "total_price": 437.04
+      }
+    ],
+    "subtotal": 5696.93,
+    "tax_amount": 455.75,
+    "total_amount": 6152.68
+  },
+  {
+    "vendor_name": "Client Company 1086 LLC",
+    "invoice_number": "INV-1086",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 9.0,
+        "unit_price": 101.6,
+        "total_price": 914.4
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 10.0,
+        "unit_price": 67.98,
+        "total_price": 679.8
+      },
+      {
+        "description": "Software License",
+        "quantity": 2.0,
+        "unit_price": 255.06,
+        "total_price": 510.12
+      }
+    ],
+    "subtotal": 2104.32,
+    "tax_amount": 168.35,
+    "total_amount": 2272.67
+  },
+  {
+    "vendor_name": "Client Company 1087 LLC",
+    "invoice_number": "INV-1087",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 77.25,
+        "total_price": 772.5
+      }
+    ],
+    "subtotal": 772.5,
+    "tax_amount": 61.8,
+    "total_amount": 834.3
+  },
+  {
+    "vendor_name": "Client Company 1088 LLC",
+    "invoice_number": "INV-1088",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 228.75,
+        "total_price": 915.0
+      }
+    ],
+    "subtotal": 915.0,
+    "tax_amount": 73.2,
+    "total_amount": 988.2
+  },
+  {
+    "vendor_name": "Client Company 1089 LLC",
+    "invoice_number": "INV-1089",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 269.93,
+        "total_price": 809.79
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 10.0,
+        "unit_price": 143.05,
+        "total_price": 1430.5
+      }
+    ],
+    "subtotal": 2240.29,
+    "tax_amount": 179.22,
+    "total_amount": 2419.51
+  },
+  {
+    "vendor_name": "Client Company 1090 LLC",
+    "invoice_number": "INV-1090",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 10.0,
+        "unit_price": 79.22,
+        "total_price": 792.2
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 170.98,
+        "total_price": 683.92
+      },
+      {
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 63.24,
+        "total_price": 189.72
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 129.68,
+        "total_price": 907.76
+      }
+    ],
+    "subtotal": 2573.6,
+    "tax_amount": 205.89,
+    "total_amount": 2779.49
+  },
+  {
+    "vendor_name": "Client Company 1091 LLC",
+    "invoice_number": "INV-1091",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 399.8,
+        "total_price": 2398.8
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 79.38,
+        "total_price": 555.66
+      },
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 460.91,
+        "total_price": 460.91
+      }
+    ],
+    "subtotal": 3415.37,
+    "tax_amount": 273.23,
+    "total_amount": 3688.6
+  },
+  {
+    "vendor_name": "Client Company 1092 LLC",
+    "invoice_number": "INV-1092",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 353.84,
+        "total_price": 2476.88
+      },
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 219.86,
+        "total_price": 219.86
+      },
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 496.92,
+        "total_price": 3975.36
+      },
+      {
+        "description": "Support",
+        "quantity": 5.0,
+        "unit_price": 400.06,
+        "total_price": 2000.3
+      }
+    ],
+    "subtotal": 8672.4,
+    "tax_amount": 693.79,
+    "total_amount": 9366.19
+  },
+  {
+    "vendor_name": "Client Company 1093 LLC",
+    "invoice_number": "INV-1093",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 94.26,
+        "total_price": 659.82
+      },
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 431.88,
+        "total_price": 431.88
+      }
+    ],
+    "subtotal": 1091.7,
+    "tax_amount": 87.34,
+    "total_amount": 1179.04
+  },
+  {
+    "vendor_name": "Client Company 1094 LLC",
+    "invoice_number": "INV-1094",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 423.94,
+        "total_price": 3391.52
+      }
+    ],
+    "subtotal": 3391.52,
+    "tax_amount": 271.32,
+    "total_amount": 3662.84
+  },
+  {
+    "vendor_name": "Client Company 1095 LLC",
+    "invoice_number": "INV-1095",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 202.96,
+        "total_price": 1217.76
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 268.14,
+        "total_price": 1876.98
+      },
+      {
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 104.26,
+        "total_price": 834.08
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 447.16,
+        "total_price": 1341.48
+      }
+    ],
+    "subtotal": 5270.3,
+    "tax_amount": 421.62,
+    "total_amount": 5691.92
+  },
+  {
+    "vendor_name": "Client Company 1096 LLC",
+    "invoice_number": "INV-1096",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 311.35,
+        "total_price": 2490.8
+      },
+      {
+        "description": "Design",
+        "quantity": 3.0,
+        "unit_price": 449.16,
+        "total_price": 1347.48
+      },
+      {
+        "description": "Software License",
+        "quantity": 5.0,
+        "unit_price": 436.9,
+        "total_price": 2184.5
+      },
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 242.1,
+        "total_price": 2178.9
+      }
+    ],
+    "subtotal": 8201.68,
+    "tax_amount": 656.13,
+    "total_amount": 8857.81
+  },
+  {
+    "vendor_name": "Client Company 1097 LLC",
+    "invoice_number": "INV-1097",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 295.54,
+        "total_price": 2068.78
+      },
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 333.63,
+        "total_price": 1668.15
+      },
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 95.85,
+        "total_price": 287.55
+      }
+    ],
+    "subtotal": 4024.48,
+    "tax_amount": 321.96,
+    "total_amount": 4346.44
+  },
+  {
+    "vendor_name": "Client Company 1098 LLC",
+    "invoice_number": "INV-1098",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 148.48,
+        "total_price": 890.88
+      },
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 466.71,
+        "total_price": 1866.84
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 253.81,
+        "total_price": 253.81
+      }
+    ],
+    "subtotal": 3011.53,
+    "tax_amount": 240.92,
+    "total_amount": 3252.45
+  },
+  {
+    "vendor_name": "Client Company 1099 LLC",
+    "invoice_number": "INV-1099",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Support",
+        "quantity": 10.0,
+        "unit_price": 93.48,
+        "total_price": 934.8
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 390.38,
+        "total_price": 390.38
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 344.74,
+        "total_price": 2757.92
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 91.27,
+        "total_price": 912.7
+      }
+    ],
+    "subtotal": 4995.8,
+    "tax_amount": 399.66,
+    "total_amount": 5395.46
+  },
+  {
+    "vendor_name": "Client Company 1100 LLC",
+    "invoice_number": "INV-1100",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 352.65,
+        "total_price": 3526.5
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 9.0,
+        "unit_price": 345.06,
+        "total_price": 3105.54
+      },
+      {
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 71.31,
+        "total_price": 499.17
+      }
+    ],
+    "subtotal": 7131.21,
+    "tax_amount": 570.5,
+    "total_amount": 7701.71
+  }
+]
