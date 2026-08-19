@@ -6,15 +6,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 4.0,
-        "unit_price": 280.4,
-        "total_price": 1121.6
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 252.03,
+        "total_price": 1512.18
+      },
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 452.85,
+        "total_price": 2717.1
       }
     ],
-    "subtotal": 1121.6,
-    "tax_amount": 89.73,
-    "total_amount": 1211.33
+    "subtotal": 4229.28,
+    "tax_amount": 338.34,
+    "total_amount": 4567.62
   },
   {
     "vendor_name": "Client Company 1002 LLC",
@@ -23,33 +29,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 267.63,
+        "total_price": 267.63
+      },
+      {
         "description": "Design",
-        "quantity": 9.0,
-        "unit_price": 390.09,
-        "total_price": 3510.81
-      },
-      {
-        "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 324.35,
-        "total_price": 2594.8
-      },
-      {
-        "description": "Support",
         "quantity": 3.0,
-        "unit_price": 111.72,
-        "total_price": 335.16
+        "unit_price": 309.98,
+        "total_price": 929.94
       },
       {
         "description": "Consulting",
-        "quantity": 10.0,
-        "unit_price": 148.15,
-        "total_price": 1481.5
+        "quantity": 9.0,
+        "unit_price": 480.61,
+        "total_price": 4325.49
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 330.39,
+        "total_price": 330.39
       }
     ],
-    "subtotal": 7922.27,
-    "tax_amount": 633.78,
-    "total_amount": 8556.05
+    "subtotal": 5853.45,
+    "tax_amount": 468.28,
+    "total_amount": 6321.73
   },
   {
     "vendor_name": "Client Company 1003 LLC",
@@ -58,15 +64,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 5.0,
-        "unit_price": 226.67,
-        "total_price": 1133.35
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 375.59,
+        "total_price": 1126.77
       }
     ],
-    "subtotal": 1133.35,
-    "tax_amount": 90.67,
-    "total_amount": 1224.02
+    "subtotal": 1126.77,
+    "tax_amount": 90.14,
+    "total_amount": 1216.91
   },
   {
     "vendor_name": "Client Company 1004 LLC",
@@ -76,14 +82,32 @@
     "line_items": [
       {
         "description": "Maintenance",
-        "quantity": 1.0,
-        "unit_price": 68.51,
-        "total_price": 68.51
+        "quantity": 4.0,
+        "unit_price": 243.59,
+        "total_price": 974.36
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 208.88,
+        "total_price": 1462.16
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 351.45,
+        "total_price": 1405.8
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 160.48,
+        "total_price": 1444.32
       }
     ],
-    "subtotal": 68.51,
-    "tax_amount": 5.48,
-    "total_amount": 73.99
+    "subtotal": 5286.64,
+    "tax_amount": 422.93,
+    "total_amount": 5709.57
   },
   {
     "vendor_name": "Client Company 1005 LLC",
@@ -92,33 +116,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 5.0,
-        "unit_price": 202.47,
-        "total_price": 1012.35
-      },
-      {
         "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 373.55,
-        "total_price": 3735.5
+        "quantity": 2.0,
+        "unit_price": 316.02,
+        "total_price": 632.04
       },
       {
         "description": "Support",
-        "quantity": 7.0,
-        "unit_price": 241.09,
-        "total_price": 1687.63
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 149.03,
-        "total_price": 1043.21
+        "quantity": 9.0,
+        "unit_price": 475.79,
+        "total_price": 4282.11
       }
     ],
-    "subtotal": 7478.69,
-    "tax_amount": 598.3,
-    "total_amount": 8076.99
+    "subtotal": 4914.15,
+    "tax_amount": 393.13,
+    "total_amount": 5307.28
   },
   {
     "vendor_name": "Client Company 1006 LLC",
@@ -128,14 +140,20 @@
     "line_items": [
       {
         "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 490.64,
-        "total_price": 981.28
+        "quantity": 1.0,
+        "unit_price": 449.9,
+        "total_price": 449.9
+      },
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 303.82,
+        "total_price": 1519.1
       }
     ],
-    "subtotal": 981.28,
-    "tax_amount": 78.5,
-    "total_amount": 1059.78
+    "subtotal": 1969.0,
+    "tax_amount": 157.52,
+    "total_amount": 2126.52
   },
   {
     "vendor_name": "Client Company 1007 LLC",
@@ -144,33 +162,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 68.27,
-        "total_price": 477.89
-      },
-      {
-        "description": "Software License",
-        "quantity": 6.0,
-        "unit_price": 237.36,
-        "total_price": 1424.16
-      },
-      {
-        "description": "Software License",
+        "description": "Design",
         "quantity": 10.0,
-        "unit_price": 206.94,
-        "total_price": 2069.4
+        "unit_price": 233.78,
+        "total_price": 2337.8
       },
       {
         "description": "Design",
-        "quantity": 1.0,
-        "unit_price": 107.17,
-        "total_price": 107.17
+        "quantity": 2.0,
+        "unit_price": 472.17,
+        "total_price": 944.34
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 246.8,
+        "total_price": 987.2
+      },
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 338.11,
+        "total_price": 2704.88
       }
     ],
-    "subtotal": 4078.62,
-    "tax_amount": 326.29,
-    "total_amount": 4404.91
+    "subtotal": 6974.22,
+    "tax_amount": 557.94,
+    "total_amount": 7532.16
   },
   {
     "vendor_name": "Client Company 1008 LLC",
@@ -181,19 +199,25 @@
       {
         "description": "Support",
         "quantity": 10.0,
-        "unit_price": 66.35,
-        "total_price": 663.5
+        "unit_price": 104.38,
+        "total_price": 1043.8
       },
       {
-        "description": "Design",
+        "description": "Maintenance",
+        "quantity": 9.0,
+        "unit_price": 59.6,
+        "total_price": 536.4
+      },
+      {
+        "description": "Maintenance",
         "quantity": 7.0,
-        "unit_price": 67.54,
-        "total_price": 472.78
+        "unit_price": 103.19,
+        "total_price": 722.33
       }
     ],
-    "subtotal": 1136.28,
-    "tax_amount": 90.9,
-    "total_amount": 1227.18
+    "subtotal": 2302.53,
+    "tax_amount": 184.2,
+    "total_amount": 2486.73
   },
   {
     "vendor_name": "Client Company 1009 LLC",
@@ -202,33 +226,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 407.93,
-        "total_price": 1223.79
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 373.54,
+        "total_price": 2988.32
       },
       {
         "description": "Software License",
-        "quantity": 3.0,
-        "unit_price": 330.25,
-        "total_price": 990.75
+        "quantity": 6.0,
+        "unit_price": 266.87,
+        "total_price": 1601.22
       },
       {
         "description": "Design",
-        "quantity": 1.0,
-        "unit_price": 472.36,
-        "total_price": 472.36
-      },
-      {
-        "description": "Consulting",
         "quantity": 10.0,
-        "unit_price": 236.08,
-        "total_price": 2360.8
+        "unit_price": 102.1,
+        "total_price": 1021.0
       }
     ],
-    "subtotal": 5047.7,
-    "tax_amount": 403.82,
-    "total_amount": 5451.52
+    "subtotal": 5610.54,
+    "tax_amount": 448.84,
+    "total_amount": 6059.38
   },
   {
     "vendor_name": "Client Company 1010 LLC",
@@ -237,21 +255,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 1.0,
-        "unit_price": 224.96,
-        "total_price": 224.96
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 464.42,
+        "total_price": 1857.68
       },
       {
         "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 229.49,
-        "total_price": 458.98
+        "quantity": 8.0,
+        "unit_price": 391.22,
+        "total_price": 3129.76
       }
     ],
-    "subtotal": 683.94,
-    "tax_amount": 54.72,
-    "total_amount": 738.66
+    "subtotal": 4987.44,
+    "tax_amount": 399.0,
+    "total_amount": 5386.44
   },
   {
     "vendor_name": "Client Company 1011 LLC",
@@ -260,15 +278,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 8.0,
-        "unit_price": 114.31,
-        "total_price": 914.48
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 60.01,
+        "total_price": 60.01
       }
     ],
-    "subtotal": 914.48,
-    "tax_amount": 73.16,
-    "total_amount": 987.64
+    "subtotal": 60.01,
+    "tax_amount": 4.8,
+    "total_amount": 64.81
   },
   {
     "vendor_name": "Client Company 1012 LLC",
@@ -277,33 +295,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 7.0,
-        "unit_price": 208.76,
-        "total_price": 1461.32
-      },
-      {
-        "description": "Support",
-        "quantity": 6.0,
-        "unit_price": 309.51,
-        "total_price": 1857.06
-      },
-      {
         "description": "Maintenance",
-        "quantity": 2.0,
-        "unit_price": 464.53,
-        "total_price": 929.06
+        "quantity": 6.0,
+        "unit_price": 181.09,
+        "total_price": 1086.54
       },
       {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 82.91,
-        "total_price": 248.73
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 188.12,
+        "total_price": 188.12
+      },
+      {
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 178.83,
+        "total_price": 894.15
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 166.63,
+        "total_price": 1666.3
       }
     ],
-    "subtotal": 4496.17,
-    "tax_amount": 359.69,
-    "total_amount": 4855.86
+    "subtotal": 3835.11,
+    "tax_amount": 306.81,
+    "total_amount": 4141.92
   },
   {
     "vendor_name": "Client Company 1013 LLC",
@@ -312,27 +330,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 320.58,
-        "total_price": 641.16
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 401.35,
+        "total_price": 4013.5
       },
       {
-        "description": "Maintenance",
-        "quantity": 8.0,
-        "unit_price": 453.76,
-        "total_price": 3630.08
-      },
-      {
-        "description": "Consulting",
-        "quantity": 9.0,
-        "unit_price": 456.89,
-        "total_price": 4112.01
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 357.73,
+        "total_price": 1073.19
       }
     ],
-    "subtotal": 8383.25,
-    "tax_amount": 670.66,
-    "total_amount": 9053.91
+    "subtotal": 5086.69,
+    "tax_amount": 406.94,
+    "total_amount": 5493.63
   },
   {
     "vendor_name": "Client Company 1014 LLC",
@@ -342,20 +354,26 @@
     "line_items": [
       {
         "description": "Consulting",
-        "quantity": 6.0,
-        "unit_price": 180.38,
-        "total_price": 1082.28
+        "quantity": 1.0,
+        "unit_price": 491.62,
+        "total_price": 491.62
       },
       {
-        "description": "Software License",
-        "quantity": 5.0,
-        "unit_price": 395.81,
-        "total_price": 1979.05
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 449.88,
+        "total_price": 4048.92
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 245.8,
+        "total_price": 1720.6
       }
     ],
-    "subtotal": 3061.33,
-    "tax_amount": 244.91,
-    "total_amount": 3306.24
+    "subtotal": 6261.14,
+    "tax_amount": 500.89,
+    "total_amount": 6762.03
   },
   {
     "vendor_name": "Client Company 1015 LLC",
@@ -364,15 +382,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 486.1,
+        "total_price": 1944.4
+      },
+      {
         "description": "Support",
-        "quantity": 9.0,
-        "unit_price": 149.14,
-        "total_price": 1342.26
+        "quantity": 4.0,
+        "unit_price": 146.38,
+        "total_price": 585.52
       }
     ],
-    "subtotal": 1342.26,
-    "tax_amount": 107.38,
-    "total_amount": 1449.64
+    "subtotal": 2529.92,
+    "tax_amount": 202.39,
+    "total_amount": 2732.31
   },
   {
     "vendor_name": "Client Company 1016 LLC",
@@ -381,27 +405,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 132.78,
+        "total_price": 531.12
+      },
+      {
         "description": "Design",
-        "quantity": 7.0,
-        "unit_price": 166.55,
-        "total_price": 1165.85
+        "quantity": 2.0,
+        "unit_price": 322.94,
+        "total_price": 645.88
       },
       {
         "description": "Design",
         "quantity": 6.0,
-        "unit_price": 298.19,
-        "total_price": 1789.14
+        "unit_price": 107.54,
+        "total_price": 645.24
       },
       {
-        "description": "Software License",
-        "quantity": 4.0,
-        "unit_price": 228.49,
-        "total_price": 913.96
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 249.76,
+        "total_price": 1748.32
       }
     ],
-    "subtotal": 3868.95,
-    "tax_amount": 309.52,
-    "total_amount": 4178.47
+    "subtotal": 3570.56,
+    "tax_amount": 285.64,
+    "total_amount": 3856.2
   },
   {
     "vendor_name": "Client Company 1017 LLC",
@@ -410,33 +440,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 3.0,
-        "unit_price": 464.07,
-        "total_price": 1392.21
-      },
-      {
-        "description": "Software License",
-        "quantity": 7.0,
-        "unit_price": 332.77,
-        "total_price": 2329.39
-      },
-      {
-        "description": "Consulting",
-        "quantity": 6.0,
-        "unit_price": 361.1,
-        "total_price": 2166.6
-      },
-      {
-        "description": "Software License",
-        "quantity": 2.0,
-        "unit_price": 470.66,
-        "total_price": 941.32
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 101.32,
+        "total_price": 506.6
       }
     ],
-    "subtotal": 6829.52,
-    "tax_amount": 546.36,
-    "total_amount": 7375.88
+    "subtotal": 506.6,
+    "tax_amount": 40.53,
+    "total_amount": 547.13
   },
   {
     "vendor_name": "Client Company 1018 LLC",
@@ -446,20 +458,26 @@
     "line_items": [
       {
         "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 111.47,
-        "total_price": 445.88
+        "quantity": 6.0,
+        "unit_price": 178.93,
+        "total_price": 1073.58
       },
       {
         "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 64.64,
+        "total_price": 64.64
+      },
+      {
+        "description": "Software License",
         "quantity": 3.0,
-        "unit_price": 359.91,
-        "total_price": 1079.73
+        "unit_price": 173.7,
+        "total_price": 521.1
       }
     ],
-    "subtotal": 1525.61,
-    "tax_amount": 122.05,
-    "total_amount": 1647.66
+    "subtotal": 1659.32,
+    "tax_amount": 132.75,
+    "total_amount": 1792.07
   },
   {
     "vendor_name": "Client Company 1019 LLC",
@@ -469,26 +487,14 @@
     "line_items": [
       {
         "description": "Support",
-        "quantity": 5.0,
-        "unit_price": 405.07,
-        "total_price": 2025.35
-      },
-      {
-        "description": "Support",
-        "quantity": 2.0,
-        "unit_price": 461.1,
-        "total_price": 922.2
-      },
-      {
-        "description": "Support",
-        "quantity": 1.0,
-        "unit_price": 472.34,
-        "total_price": 472.34
+        "quantity": 7.0,
+        "unit_price": 480.87,
+        "total_price": 3366.09
       }
     ],
-    "subtotal": 3419.89,
-    "tax_amount": 273.59,
-    "total_amount": 3693.48
+    "subtotal": 3366.09,
+    "tax_amount": 269.29,
+    "total_amount": 3635.38
   },
   {
     "vendor_name": "Client Company 1020 LLC",
@@ -497,27 +503,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
+        "description": "Consulting",
         "quantity": 9.0,
-        "unit_price": 313.83,
-        "total_price": 2824.47
+        "unit_price": 381.25,
+        "total_price": 3431.25
       },
       {
-        "description": "Consulting",
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 69.66,
+        "total_price": 487.62
+      },
+      {
+        "description": "Maintenance",
         "quantity": 1.0,
-        "unit_price": 120.63,
-        "total_price": 120.63
-      },
-      {
-        "description": "Consulting",
-        "quantity": 5.0,
-        "unit_price": 226.7,
-        "total_price": 1133.5
+        "unit_price": 137.95,
+        "total_price": 137.95
       }
     ],
-    "subtotal": 4078.6,
-    "tax_amount": 326.29,
-    "total_amount": 4404.89
+    "subtotal": 4056.82,
+    "tax_amount": 324.55,
+    "total_amount": 4381.37
   },
   {
     "vendor_name": "Client Company 1021 LLC",
@@ -526,27 +532,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 2.0,
-        "unit_price": 240.03,
-        "total_price": 480.06
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 337.56,
+        "total_price": 2025.36
       },
       {
-        "description": "Maintenance",
-        "quantity": 4.0,
-        "unit_price": 57.26,
-        "total_price": 229.04
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 342.93,
+        "total_price": 685.86
       },
       {
         "description": "Consulting",
-        "quantity": 7.0,
-        "unit_price": 410.6,
-        "total_price": 2874.2
+        "quantity": 4.0,
+        "unit_price": 497.8,
+        "total_price": 1991.2
+      },
+      {
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 413.18,
+        "total_price": 2065.9
       }
     ],
-    "subtotal": 3583.3,
-    "tax_amount": 286.66,
-    "total_amount": 3869.96
+    "subtotal": 6768.32,
+    "tax_amount": 541.47,
+    "total_amount": 7309.79
   },
   {
     "vendor_name": "Client Company 1022 LLC",
@@ -555,21 +567,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 4.0,
-        "unit_price": 376.42,
-        "total_price": 1505.68
-      },
-      {
         "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 279.06,
-        "total_price": 1116.24
+        "quantity": 2.0,
+        "unit_price": 84.27,
+        "total_price": 168.54
       }
     ],
-    "subtotal": 2621.92,
-    "tax_amount": 209.75,
-    "total_amount": 2831.67
+    "subtotal": 168.54,
+    "tax_amount": 13.48,
+    "total_amount": 182.02
   },
   {
     "vendor_name": "Client Company 1023 LLC",
@@ -578,21 +584,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 9.0,
-        "unit_price": 393.28,
-        "total_price": 3539.52
+        "description": "Support",
+        "quantity": 1.0,
+        "unit_price": 303.54,
+        "total_price": 303.54
       },
       {
-        "description": "Support",
+        "description": "Software License",
         "quantity": 8.0,
-        "unit_price": 491.22,
-        "total_price": 3929.76
+        "unit_price": 109.3,
+        "total_price": 874.4
       }
     ],
-    "subtotal": 7469.28,
-    "tax_amount": 597.54,
-    "total_amount": 8066.82
+    "subtotal": 1177.94,
+    "tax_amount": 94.24,
+    "total_amount": 1272.18
   },
   {
     "vendor_name": "Client Company 1024 LLC",
@@ -601,27 +607,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 5.0,
-        "unit_price": 145.27,
-        "total_price": 726.35
-      },
-      {
-        "description": "Software License",
-        "quantity": 3.0,
-        "unit_price": 56.38,
-        "total_price": 169.14
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 249.21,
+        "total_price": 1495.26
       },
       {
         "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 136.8,
+        "total_price": 273.6
+      },
+      {
+        "description": "Software License",
         "quantity": 9.0,
-        "unit_price": 474.38,
-        "total_price": 4269.42
+        "unit_price": 415.58,
+        "total_price": 3740.22
       }
     ],
-    "subtotal": 5164.91,
-    "tax_amount": 413.19,
-    "total_amount": 5578.1
+    "subtotal": 5509.08,
+    "tax_amount": 440.73,
+    "total_amount": 5949.81
   },
   {
     "vendor_name": "Client Company 1025 LLC",
@@ -630,27 +636,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 2.0,
-        "unit_price": 461.85,
-        "total_price": 923.7
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 425.09,
+        "total_price": 1275.27
       },
       {
-        "description": "Software License",
-        "quantity": 8.0,
-        "unit_price": 419.55,
-        "total_price": 3356.4
-      },
-      {
-        "description": "Software License",
-        "quantity": 1.0,
-        "unit_price": 483.21,
-        "total_price": 483.21
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 155.14,
+        "total_price": 1396.26
       }
     ],
-    "subtotal": 4763.31,
-    "tax_amount": 381.06,
-    "total_amount": 5144.37
+    "subtotal": 2671.53,
+    "tax_amount": 213.72,
+    "total_amount": 2885.25
   },
   {
     "vendor_name": "Client Company 1026 LLC",
@@ -659,27 +659,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Support",
+        "quantity": 7.0,
+        "unit_price": 135.34,
+        "total_price": 947.38
+      },
+      {
         "description": "Design",
-        "quantity": 5.0,
-        "unit_price": 218.85,
-        "total_price": 1094.25
+        "quantity": 10.0,
+        "unit_price": 341.07,
+        "total_price": 3410.7
       },
       {
         "description": "Software License",
-        "quantity": 8.0,
-        "unit_price": 162.25,
-        "total_price": 1298.0
+        "quantity": 5.0,
+        "unit_price": 81.6,
+        "total_price": 408.0
       },
       {
-        "description": "Support",
-        "quantity": 1.0,
-        "unit_price": 183.66,
-        "total_price": 183.66
+        "description": "Software License",
+        "quantity": 7.0,
+        "unit_price": 332.84,
+        "total_price": 2329.88
       }
     ],
-    "subtotal": 2575.91,
-    "tax_amount": 206.07,
-    "total_amount": 2781.98
+    "subtotal": 7095.96,
+    "tax_amount": 567.68,
+    "total_amount": 7663.64
   },
   {
     "vendor_name": "Client Company 1027 LLC",
@@ -688,21 +694,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 7.0,
-        "unit_price": 186.59,
-        "total_price": 1306.13
-      },
-      {
-        "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 131.85,
-        "total_price": 1318.5
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 409.59,
+        "total_price": 2457.54
       }
     ],
-    "subtotal": 2624.63,
-    "tax_amount": 209.97,
-    "total_amount": 2834.6
+    "subtotal": 2457.54,
+    "tax_amount": 196.6,
+    "total_amount": 2654.14
   },
   {
     "vendor_name": "Client Company 1028 LLC",
@@ -711,27 +711,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 275.49,
-        "total_price": 2203.92
-      },
-      {
-        "description": "Software License",
-        "quantity": 3.0,
-        "unit_price": 227.87,
-        "total_price": 683.61
-      },
-      {
-        "description": "Support",
+        "description": "Maintenance",
         "quantity": 9.0,
-        "unit_price": 371.52,
-        "total_price": 3343.68
+        "unit_price": 89.23,
+        "total_price": 803.07
       }
     ],
-    "subtotal": 6231.21,
-    "tax_amount": 498.5,
-    "total_amount": 6729.71
+    "subtotal": 803.07,
+    "tax_amount": 64.25,
+    "total_amount": 867.32
   },
   {
     "vendor_name": "Client Company 1029 LLC",
@@ -740,21 +728,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 5.0,
-        "unit_price": 288.49,
-        "total_price": 1442.45
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 268.11,
+        "total_price": 804.33
       },
       {
-        "description": "Support",
-        "quantity": 7.0,
-        "unit_price": 363.66,
-        "total_price": 2545.62
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 195.4,
+        "total_price": 390.8
       }
     ],
-    "subtotal": 3988.07,
-    "tax_amount": 319.05,
-    "total_amount": 4307.12
+    "subtotal": 1195.13,
+    "tax_amount": 95.61,
+    "total_amount": 1290.74
   },
   {
     "vendor_name": "Client Company 1030 LLC",
@@ -764,26 +752,32 @@
     "line_items": [
       {
         "description": "Software License",
-        "quantity": 4.0,
-        "unit_price": 451.18,
-        "total_price": 1804.72
+        "quantity": 2.0,
+        "unit_price": 81.13,
+        "total_price": 162.26
       },
       {
         "description": "Design",
-        "quantity": 3.0,
-        "unit_price": 126.62,
-        "total_price": 379.86
+        "quantity": 2.0,
+        "unit_price": 56.74,
+        "total_price": 113.48
       },
       {
-        "description": "Maintenance",
-        "quantity": 5.0,
-        "unit_price": 178.2,
-        "total_price": 891.0
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 69.31,
+        "total_price": 207.93
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 409.01,
+        "total_price": 3681.09
       }
     ],
-    "subtotal": 3075.58,
-    "tax_amount": 246.05,
-    "total_amount": 3321.63
+    "subtotal": 4164.76,
+    "tax_amount": 333.18,
+    "total_amount": 4497.94
   },
   {
     "vendor_name": "Client Company 1031 LLC",
@@ -792,27 +786,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 6.0,
-        "unit_price": 164.26,
-        "total_price": 985.56
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 188.84,
+        "total_price": 1321.88
       },
       {
-        "description": "Support",
-        "quantity": 5.0,
-        "unit_price": 290.77,
-        "total_price": 1453.85
+        "description": "Design",
+        "quantity": 7.0,
+        "unit_price": 448.5,
+        "total_price": 3139.5
       },
       {
-        "description": "Software License",
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 137.36,
+        "total_price": 274.72
+      },
+      {
+        "description": "Design",
         "quantity": 8.0,
-        "unit_price": 291.42,
-        "total_price": 2331.36
+        "unit_price": 361.19,
+        "total_price": 2889.52
       }
     ],
-    "subtotal": 4770.77,
-    "tax_amount": 381.66,
-    "total_amount": 5152.43
+    "subtotal": 7625.62,
+    "tax_amount": 610.05,
+    "total_amount": 8235.67
   },
   {
     "vendor_name": "Client Company 1032 LLC",
@@ -821,27 +821,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 185.13,
+        "total_price": 1481.04
+      },
+      {
         "description": "Consulting",
-        "quantity": 10.0,
-        "unit_price": 445.41,
-        "total_price": 4454.1
+        "quantity": 4.0,
+        "unit_price": 54.88,
+        "total_price": 219.52
       },
       {
         "description": "Software License",
         "quantity": 8.0,
-        "unit_price": 417.02,
-        "total_price": 3336.16
-      },
-      {
-        "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 337.8,
-        "total_price": 1351.2
+        "unit_price": 214.79,
+        "total_price": 1718.32
       }
     ],
-    "subtotal": 9141.46,
-    "tax_amount": 731.32,
-    "total_amount": 9872.78
+    "subtotal": 3418.88,
+    "tax_amount": 273.51,
+    "total_amount": 3692.39
   },
   {
     "vendor_name": "Client Company 1033 LLC",
@@ -850,27 +850,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
+        "description": "Maintenance",
         "quantity": 2.0,
-        "unit_price": 201.44,
-        "total_price": 402.88
-      },
-      {
-        "description": "Design",
-        "quantity": 1.0,
-        "unit_price": 139.74,
-        "total_price": 139.74
-      },
-      {
-        "description": "Consulting",
-        "quantity": 9.0,
-        "unit_price": 383.07,
-        "total_price": 3447.63
+        "unit_price": 386.75,
+        "total_price": 773.5
       }
     ],
-    "subtotal": 3990.25,
-    "tax_amount": 319.22,
-    "total_amount": 4309.47
+    "subtotal": 773.5,
+    "tax_amount": 61.88,
+    "total_amount": 835.38
   },
   {
     "vendor_name": "Client Company 1034 LLC",
@@ -879,15 +867,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 10.0,
-        "unit_price": 165.67,
-        "total_price": 1656.7
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 290.76,
+        "total_price": 290.76
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 239.71,
+        "total_price": 2157.39
       }
     ],
-    "subtotal": 1656.7,
-    "tax_amount": 132.54,
-    "total_amount": 1789.24
+    "subtotal": 2448.15,
+    "tax_amount": 195.85,
+    "total_amount": 2644.0
   },
   {
     "vendor_name": "Client Company 1035 LLC",
@@ -896,15 +890,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 144.49,
+        "total_price": 722.45
+      },
+      {
         "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 237.94,
-        "total_price": 1665.58
+        "quantity": 1.0,
+        "unit_price": 143.29,
+        "total_price": 143.29
+      },
+      {
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 367.96,
+        "total_price": 2943.68
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 377.89,
+        "total_price": 1133.67
       }
     ],
-    "subtotal": 1665.58,
-    "tax_amount": 133.25,
-    "total_amount": 1798.83
+    "subtotal": 4943.09,
+    "tax_amount": 395.45,
+    "total_amount": 5338.54
   },
   {
     "vendor_name": "Client Company 1036 LLC",
@@ -914,32 +926,14 @@
     "line_items": [
       {
         "description": "Maintenance",
-        "quantity": 5.0,
-        "unit_price": 248.43,
-        "total_price": 1242.15
-      },
-      {
-        "description": "Software License",
-        "quantity": 9.0,
-        "unit_price": 435.36,
-        "total_price": 3918.24
-      },
-      {
-        "description": "Support",
-        "quantity": 2.0,
-        "unit_price": 449.41,
-        "total_price": 898.82
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 93.3,
-        "total_price": 653.1
+        "quantity": 1.0,
+        "unit_price": 192.69,
+        "total_price": 192.69
       }
     ],
-    "subtotal": 6712.31,
-    "tax_amount": 536.98,
-    "total_amount": 7249.29
+    "subtotal": 192.69,
+    "tax_amount": 15.42,
+    "total_amount": 208.11
   },
   {
     "vendor_name": "Client Company 1037 LLC",
@@ -949,26 +943,32 @@
     "line_items": [
       {
         "description": "Support",
-        "quantity": 6.0,
-        "unit_price": 221.48,
-        "total_price": 1328.88
+        "quantity": 9.0,
+        "unit_price": 192.36,
+        "total_price": 1731.24
       },
       {
-        "description": "Maintenance",
-        "quantity": 6.0,
-        "unit_price": 430.72,
-        "total_price": 2584.32
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 326.52,
+        "total_price": 979.56
       },
       {
-        "description": "Maintenance",
-        "quantity": 1.0,
-        "unit_price": 457.9,
-        "total_price": 457.9
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 182.56,
+        "total_price": 730.24
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 155.89,
+        "total_price": 623.56
       }
     ],
-    "subtotal": 4371.1,
-    "tax_amount": 349.69,
-    "total_amount": 4720.79
+    "subtotal": 4064.6,
+    "tax_amount": 325.17,
+    "total_amount": 4389.77
   },
   {
     "vendor_name": "Client Company 1038 LLC",
@@ -977,21 +977,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
+        "description": "Software License",
         "quantity": 9.0,
-        "unit_price": 80.28,
-        "total_price": 722.52
+        "unit_price": 400.84,
+        "total_price": 3607.56
+      },
+      {
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 408.9,
+        "total_price": 3680.1
       },
       {
         "description": "Maintenance",
-        "quantity": 3.0,
-        "unit_price": 125.75,
-        "total_price": 377.25
+        "quantity": 10.0,
+        "unit_price": 59.04,
+        "total_price": 590.4
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 394.41,
+        "total_price": 2760.87
       }
     ],
-    "subtotal": 1099.77,
-    "tax_amount": 87.98,
-    "total_amount": 1187.75
+    "subtotal": 10638.93,
+    "tax_amount": 851.11,
+    "total_amount": 11490.04
   },
   {
     "vendor_name": "Client Company 1039 LLC",
@@ -1000,15 +1012,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
+        "description": "Software License",
         "quantity": 8.0,
-        "unit_price": 481.77,
-        "total_price": 3854.16
+        "unit_price": 341.52,
+        "total_price": 2732.16
+      },
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 265.66,
+        "total_price": 1328.3
       }
     ],
-    "subtotal": 3854.16,
-    "tax_amount": 308.33,
-    "total_amount": 4162.49
+    "subtotal": 4060.46,
+    "tax_amount": 324.84,
+    "total_amount": 4385.3
   },
   {
     "vendor_name": "Client Company 1040 LLC",
@@ -1017,33 +1035,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 2.0,
-        "unit_price": 257.12,
-        "total_price": 514.24
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 2.0,
-        "unit_price": 383.77,
-        "total_price": 767.54
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 4.0,
-        "unit_price": 428.22,
-        "total_price": 1712.88
-      },
-      {
         "description": "Software License",
         "quantity": 7.0,
-        "unit_price": 492.61,
-        "total_price": 3448.27
+        "unit_price": 68.13,
+        "total_price": 476.91
       }
     ],
-    "subtotal": 6442.93,
-    "tax_amount": 515.43,
-    "total_amount": 6958.36
+    "subtotal": 476.91,
+    "tax_amount": 38.15,
+    "total_amount": 515.06
   },
   {
     "vendor_name": "Client Company 1041 LLC",
@@ -1053,26 +1053,32 @@
     "line_items": [
       {
         "description": "Maintenance",
-        "quantity": 8.0,
-        "unit_price": 111.53,
-        "total_price": 892.24
-      },
-      {
-        "description": "Software License",
-        "quantity": 6.0,
-        "unit_price": 240.19,
-        "total_price": 1441.14
-      },
-      {
-        "description": "Consulting",
         "quantity": 1.0,
-        "unit_price": 77.82,
-        "total_price": 77.82
+        "unit_price": 398.96,
+        "total_price": 398.96
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 430.68,
+        "total_price": 861.36
+      },
+      {
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 190.91,
+        "total_price": 1145.46
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 368.08,
+        "total_price": 2944.64
       }
     ],
-    "subtotal": 2411.2,
-    "tax_amount": 192.9,
-    "total_amount": 2604.1
+    "subtotal": 5350.42,
+    "tax_amount": 428.03,
+    "total_amount": 5778.45
   },
   {
     "vendor_name": "Client Company 1042 LLC",
@@ -1081,27 +1087,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 217.35,
+        "total_price": 869.4
+      },
+      {
         "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 398.75,
-        "total_price": 2791.25
+        "quantity": 1.0,
+        "unit_price": 112.89,
+        "total_price": 112.89
       },
       {
         "description": "Support",
-        "quantity": 8.0,
-        "unit_price": 193.06,
-        "total_price": 1544.48
-      },
-      {
-        "description": "Software License",
-        "quantity": 3.0,
-        "unit_price": 490.89,
-        "total_price": 1472.67
+        "quantity": 10.0,
+        "unit_price": 184.39,
+        "total_price": 1843.9
       }
     ],
-    "subtotal": 5808.4,
-    "tax_amount": 464.67,
-    "total_amount": 6273.07
+    "subtotal": 2826.19,
+    "tax_amount": 226.1,
+    "total_amount": 3052.29
   },
   {
     "vendor_name": "Client Company 1043 LLC",
@@ -1110,15 +1116,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 3.0,
-        "unit_price": 264.76,
-        "total_price": 794.28
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 277.08,
+        "total_price": 1662.48
+      },
+      {
+        "description": "Software License",
+        "quantity": 2.0,
+        "unit_price": 88.45,
+        "total_price": 176.9
       }
     ],
-    "subtotal": 794.28,
-    "tax_amount": 63.54,
-    "total_amount": 857.82
+    "subtotal": 1839.38,
+    "tax_amount": 147.15,
+    "total_amount": 1986.53
   },
   {
     "vendor_name": "Client Company 1044 LLC",
@@ -1127,27 +1139,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 8.0,
-        "unit_price": 477.3,
-        "total_price": 3818.4
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 443.71,
+        "total_price": 2218.55
       },
       {
-        "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 118.79,
-        "total_price": 1187.9
-      },
-      {
-        "description": "Design",
-        "quantity": 6.0,
-        "unit_price": 150.88,
-        "total_price": 905.28
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 96.38,
+        "total_price": 289.14
       }
     ],
-    "subtotal": 5911.58,
-    "tax_amount": 472.93,
-    "total_amount": 6384.51
+    "subtotal": 2507.69,
+    "tax_amount": 200.62,
+    "total_amount": 2708.31
   },
   {
     "vendor_name": "Client Company 1045 LLC",
@@ -1156,15 +1162,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 4.0,
-        "unit_price": 74.55,
-        "total_price": 298.2
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 91.33,
+        "total_price": 913.3
+      },
+      {
+        "description": "Design",
+        "quantity": 10.0,
+        "unit_price": 123.69,
+        "total_price": 1236.9
       }
     ],
-    "subtotal": 298.2,
-    "tax_amount": 23.86,
-    "total_amount": 322.06
+    "subtotal": 2150.2,
+    "tax_amount": 172.02,
+    "total_amount": 2322.22
   },
   {
     "vendor_name": "Client Company 1046 LLC",
@@ -1173,21 +1185,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 415.63,
-        "total_price": 1246.89
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 230.99,
+        "total_price": 1385.94
       },
       {
-        "description": "Maintenance",
-        "quantity": 1.0,
-        "unit_price": 127.75,
-        "total_price": 127.75
+        "description": "Consulting",
+        "quantity": 6.0,
+        "unit_price": 77.47,
+        "total_price": 464.82
       }
     ],
-    "subtotal": 1374.64,
-    "tax_amount": 109.97,
-    "total_amount": 1484.61
+    "subtotal": 1850.76,
+    "tax_amount": 148.06,
+    "total_amount": 1998.82
   },
   {
     "vendor_name": "Client Company 1047 LLC",
@@ -1196,27 +1208,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 272.3,
-        "total_price": 1089.2
-      },
-      {
-        "description": "Design",
-        "quantity": 8.0,
-        "unit_price": 436.89,
-        "total_price": 3495.12
-      },
-      {
         "description": "Software License",
-        "quantity": 9.0,
-        "unit_price": 246.32,
-        "total_price": 2216.88
+        "quantity": 1.0,
+        "unit_price": 197.15,
+        "total_price": 197.15
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 300.74,
+        "total_price": 300.74
       }
     ],
-    "subtotal": 6801.2,
-    "tax_amount": 544.1,
-    "total_amount": 7345.3
+    "subtotal": 497.89,
+    "tax_amount": 39.83,
+    "total_amount": 537.72
   },
   {
     "vendor_name": "Client Company 1048 LLC",
@@ -1225,21 +1231,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 286.07,
-        "total_price": 858.21
+        "description": "Maintenance",
+        "quantity": 10.0,
+        "unit_price": 460.58,
+        "total_price": 4605.8
       },
       {
         "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 317.26,
-        "total_price": 3172.6
+        "quantity": 3.0,
+        "unit_price": 119.81,
+        "total_price": 359.43
+      },
+      {
+        "description": "Support",
+        "quantity": 1.0,
+        "unit_price": 210.01,
+        "total_price": 210.01
       }
     ],
-    "subtotal": 4030.81,
-    "tax_amount": 322.46,
-    "total_amount": 4353.27
+    "subtotal": 5175.24,
+    "tax_amount": 414.02,
+    "total_amount": 5589.26
   },
   {
     "vendor_name": "Client Company 1049 LLC",
@@ -1249,14 +1261,20 @@
     "line_items": [
       {
         "description": "Support",
-        "quantity": 7.0,
-        "unit_price": 376.78,
-        "total_price": 2637.46
+        "quantity": 8.0,
+        "unit_price": 491.95,
+        "total_price": 3935.6
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 67.97,
+        "total_price": 271.88
       }
     ],
-    "subtotal": 2637.46,
-    "tax_amount": 211.0,
-    "total_amount": 2848.46
+    "subtotal": 4207.48,
+    "tax_amount": 336.6,
+    "total_amount": 4544.08
   },
   {
     "vendor_name": "Client Company 1050 LLC",
@@ -1266,20 +1284,26 @@
     "line_items": [
       {
         "description": "Consulting",
-        "quantity": 10.0,
-        "unit_price": 480.22,
-        "total_price": 4802.2
+        "quantity": 4.0,
+        "unit_price": 415.05,
+        "total_price": 1660.2
       },
       {
-        "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 394.32,
-        "total_price": 2760.24
+        "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 399.3,
+        "total_price": 3993.0
+      },
+      {
+        "description": "Design",
+        "quantity": 1.0,
+        "unit_price": 282.19,
+        "total_price": 282.19
       }
     ],
-    "subtotal": 7562.44,
-    "tax_amount": 605.0,
-    "total_amount": 8167.44
+    "subtotal": 5935.39,
+    "tax_amount": 474.83,
+    "total_amount": 6410.22
   },
   {
     "vendor_name": "Client Company 1051 LLC",
@@ -1288,27 +1312,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 4.0,
-        "unit_price": 145.78,
-        "total_price": 583.12
-      },
-      {
-        "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 55.94,
-        "total_price": 223.76
-      },
-      {
         "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 98.17,
-        "total_price": 687.19
+        "quantity": 8.0,
+        "unit_price": 372.99,
+        "total_price": 2983.92
+      },
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 403.89,
+        "total_price": 1615.56
+      },
+      {
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 198.04,
+        "total_price": 1188.24
       }
     ],
-    "subtotal": 1494.07,
-    "tax_amount": 119.53,
-    "total_amount": 1613.6
+    "subtotal": 5787.72,
+    "tax_amount": 463.02,
+    "total_amount": 6250.74
   },
   {
     "vendor_name": "Client Company 1052 LLC",
@@ -1317,15 +1341,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 6.0,
-        "unit_price": 306.36,
-        "total_price": 1838.16
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 116.89,
+        "total_price": 467.56
       }
     ],
-    "subtotal": 1838.16,
-    "tax_amount": 147.05,
-    "total_amount": 1985.21
+    "subtotal": 467.56,
+    "tax_amount": 37.4,
+    "total_amount": 504.96
   },
   {
     "vendor_name": "Client Company 1053 LLC",
@@ -1334,15 +1358,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 133.43,
+        "total_price": 533.72
+      },
+      {
         "description": "Consulting",
+        "quantity": 10.0,
+        "unit_price": 211.33,
+        "total_price": 2113.3
+      },
+      {
+        "description": "Maintenance",
         "quantity": 6.0,
-        "unit_price": 328.33,
-        "total_price": 1969.98
+        "unit_price": 476.29,
+        "total_price": 2857.74
+      },
+      {
+        "description": "Consulting",
+        "quantity": 7.0,
+        "unit_price": 420.62,
+        "total_price": 2944.34
       }
     ],
-    "subtotal": 1969.98,
-    "tax_amount": 157.6,
-    "total_amount": 2127.58
+    "subtotal": 8449.1,
+    "tax_amount": 675.93,
+    "total_amount": 9125.03
   },
   {
     "vendor_name": "Client Company 1054 LLC",
@@ -1351,33 +1393,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 2.0,
-        "unit_price": 116.14,
-        "total_price": 232.28
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 355.23,
+        "total_price": 2131.38
+      },
+      {
+        "description": "Support",
+        "quantity": 3.0,
+        "unit_price": 276.48,
+        "total_price": 829.44
       },
       {
         "description": "Design",
-        "quantity": 1.0,
-        "unit_price": 234.38,
-        "total_price": 234.38
+        "quantity": 6.0,
+        "unit_price": 414.59,
+        "total_price": 2487.54
       },
       {
         "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 191.09,
-        "total_price": 1528.72
-      },
-      {
-        "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 337.48,
-        "total_price": 3374.8
+        "quantity": 7.0,
+        "unit_price": 475.76,
+        "total_price": 3330.32
       }
     ],
-    "subtotal": 5370.18,
-    "tax_amount": 429.61,
-    "total_amount": 5799.79
+    "subtotal": 8778.68,
+    "tax_amount": 702.29,
+    "total_amount": 9480.97
   },
   {
     "vendor_name": "Client Company 1055 LLC",
@@ -1386,33 +1428,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
+        "description": "Design",
         "quantity": 3.0,
-        "unit_price": 217.32,
-        "total_price": 651.96
-      },
-      {
-        "description": "Support",
-        "quantity": 2.0,
-        "unit_price": 196.26,
-        "total_price": 392.52
-      },
-      {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 430.23,
-        "total_price": 1290.69
-      },
-      {
-        "description": "Support",
-        "quantity": 4.0,
-        "unit_price": 101.31,
-        "total_price": 405.24
+        "unit_price": 108.18,
+        "total_price": 324.54
       }
     ],
-    "subtotal": 2740.41,
-    "tax_amount": 219.23,
-    "total_amount": 2959.64
+    "subtotal": 324.54,
+    "tax_amount": 25.96,
+    "total_amount": 350.5
   },
   {
     "vendor_name": "Client Company 1056 LLC",
@@ -1421,21 +1445,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 4.0,
-        "unit_price": 424.79,
-        "total_price": 1699.16
+        "description": "Support",
+        "quantity": 9.0,
+        "unit_price": 97.38,
+        "total_price": 876.42
       },
       {
         "description": "Design",
-        "quantity": 5.0,
-        "unit_price": 252.87,
-        "total_price": 1264.35
+        "quantity": 7.0,
+        "unit_price": 374.63,
+        "total_price": 2622.41
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 266.55,
+        "total_price": 2132.4
       }
     ],
-    "subtotal": 2963.51,
-    "tax_amount": 237.08,
-    "total_amount": 3200.59
+    "subtotal": 5631.23,
+    "tax_amount": 450.5,
+    "total_amount": 6081.73
   },
   {
     "vendor_name": "Client Company 1057 LLC",
@@ -1444,33 +1474,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 315.69,
-        "total_price": 2525.52
-      },
-      {
-        "description": "Support",
-        "quantity": 2.0,
-        "unit_price": 391.11,
-        "total_price": 782.22
-      },
-      {
-        "description": "Consulting",
-        "quantity": 1.0,
-        "unit_price": 244.82,
-        "total_price": 244.82
-      },
-      {
         "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 170.72,
-        "total_price": 1707.2
+        "quantity": 1.0,
+        "unit_price": 77.34,
+        "total_price": 77.34
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9.0,
+        "unit_price": 227.43,
+        "total_price": 2046.87
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 9.0,
+        "unit_price": 191.84,
+        "total_price": 1726.56
+      },
+      {
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 346.79,
+        "total_price": 2774.32
       }
     ],
-    "subtotal": 5259.76,
-    "tax_amount": 420.78,
-    "total_amount": 5680.54
+    "subtotal": 6625.09,
+    "tax_amount": 530.01,
+    "total_amount": 7155.1
   },
   {
     "vendor_name": "Client Company 1058 LLC",
@@ -1479,21 +1509,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 7.0,
-        "unit_price": 463.5,
-        "total_price": 3244.5
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 328.52,
+        "total_price": 657.04
       },
       {
-        "description": "Software License",
-        "quantity": 7.0,
-        "unit_price": 494.39,
-        "total_price": 3460.73
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 378.37,
+        "total_price": 2270.22
+      },
+      {
+        "description": "Support",
+        "quantity": 4.0,
+        "unit_price": 498.6,
+        "total_price": 1994.4
       }
     ],
-    "subtotal": 6705.23,
-    "tax_amount": 536.42,
-    "total_amount": 7241.65
+    "subtotal": 4921.66,
+    "tax_amount": 393.73,
+    "total_amount": 5315.39
   },
   {
     "vendor_name": "Client Company 1059 LLC",
@@ -1502,21 +1538,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 8.0,
-        "unit_price": 470.87,
-        "total_price": 3766.96
-      },
-      {
-        "description": "Consulting",
+        "description": "Support",
         "quantity": 7.0,
-        "unit_price": 82.21,
-        "total_price": 575.47
+        "unit_price": 108.51,
+        "total_price": 759.57
       }
     ],
-    "subtotal": 4342.43,
-    "tax_amount": 347.39,
-    "total_amount": 4689.82
+    "subtotal": 759.57,
+    "tax_amount": 60.77,
+    "total_amount": 820.34
   },
   {
     "vendor_name": "Client Company 1060 LLC",
@@ -1525,27 +1555,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 6.0,
-        "unit_price": 249.34,
-        "total_price": 1496.04
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 10.0,
-        "unit_price": 64.56,
-        "total_price": 645.6
-      },
-      {
         "description": "Design",
-        "quantity": 6.0,
-        "unit_price": 388.75,
-        "total_price": 2332.5
+        "quantity": 4.0,
+        "unit_price": 237.4,
+        "total_price": 949.6
+      },
+      {
+        "description": "Software License",
+        "quantity": 9.0,
+        "unit_price": 443.35,
+        "total_price": 3990.15
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 320.23,
+        "total_price": 320.23
       }
     ],
-    "subtotal": 4474.14,
-    "tax_amount": 357.93,
-    "total_amount": 4832.07
+    "subtotal": 5259.98,
+    "tax_amount": 420.8,
+    "total_amount": 5680.78
   },
   {
     "vendor_name": "Client Company 1061 LLC",
@@ -1554,15 +1584,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 7.0,
-        "unit_price": 458.47,
-        "total_price": 3209.29
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 280.48,
+        "total_price": 1121.92
       }
     ],
-    "subtotal": 3209.29,
-    "tax_amount": 256.74,
-    "total_amount": 3466.03
+    "subtotal": 1121.92,
+    "tax_amount": 89.75,
+    "total_amount": 1211.67
   },
   {
     "vendor_name": "Client Company 1062 LLC",
@@ -1571,15 +1601,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 5.0,
-        "unit_price": 452.03,
-        "total_price": 2260.15
+        "description": "Support",
+        "quantity": 6.0,
+        "unit_price": 94.92,
+        "total_price": 569.52
       }
     ],
-    "subtotal": 2260.15,
-    "tax_amount": 180.81,
-    "total_amount": 2440.96
+    "subtotal": 569.52,
+    "tax_amount": 45.56,
+    "total_amount": 615.08
   },
   {
     "vendor_name": "Client Company 1063 LLC",
@@ -1588,15 +1618,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 58.82,
-        "total_price": 235.28
+        "description": "Design",
+        "quantity": 2.0,
+        "unit_price": 63.64,
+        "total_price": 127.28
       }
     ],
-    "subtotal": 235.28,
-    "tax_amount": 18.82,
-    "total_amount": 254.1
+    "subtotal": 127.28,
+    "tax_amount": 10.18,
+    "total_amount": 137.46
   },
   {
     "vendor_name": "Client Company 1064 LLC",
@@ -1605,33 +1635,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 9.0,
-        "unit_price": 304.72,
-        "total_price": 2742.48
-      },
-      {
-        "description": "Support",
-        "quantity": 4.0,
-        "unit_price": 124.66,
-        "total_price": 498.64
-      },
-      {
-        "description": "Design",
-        "quantity": 8.0,
-        "unit_price": 431.26,
-        "total_price": 3450.08
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 127.31,
+        "total_price": 1273.1
       },
       {
         "description": "Consulting",
-        "quantity": 5.0,
-        "unit_price": 104.64,
-        "total_price": 523.2
+        "quantity": 6.0,
+        "unit_price": 350.79,
+        "total_price": 2104.74
+      },
+      {
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 158.37,
+        "total_price": 1266.96
       }
     ],
-    "subtotal": 7214.4,
-    "tax_amount": 577.15,
-    "total_amount": 7791.55
+    "subtotal": 4644.8,
+    "tax_amount": 371.58,
+    "total_amount": 5016.38
   },
   {
     "vendor_name": "Client Company 1065 LLC",
@@ -1640,27 +1664,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 391.96,
+        "total_price": 2351.76
+      },
+      {
         "description": "Design",
-        "quantity": 1.0,
-        "unit_price": 325.49,
-        "total_price": 325.49
+        "quantity": 9.0,
+        "unit_price": 469.22,
+        "total_price": 4222.98
       },
       {
         "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 221.54,
+        "total_price": 1107.7
+      },
+      {
+        "description": "Software License",
         "quantity": 2.0,
-        "unit_price": 75.6,
-        "total_price": 151.2
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 3.0,
-        "unit_price": 325.13,
-        "total_price": 975.39
+        "unit_price": 460.05,
+        "total_price": 920.1
       }
     ],
-    "subtotal": 1452.08,
-    "tax_amount": 116.17,
-    "total_amount": 1568.25
+    "subtotal": 8602.54,
+    "tax_amount": 688.2,
+    "total_amount": 9290.74
   },
   {
     "vendor_name": "Client Company 1066 LLC",
@@ -1669,21 +1699,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 281.84,
-        "total_price": 2254.72
-      },
-      {
-        "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 213.99,
-        "total_price": 2139.9
+        "description": "Maintenance",
+        "quantity": 3.0,
+        "unit_price": 100.46,
+        "total_price": 301.38
       }
     ],
-    "subtotal": 4394.62,
-    "tax_amount": 351.57,
-    "total_amount": 4746.19
+    "subtotal": 301.38,
+    "tax_amount": 24.11,
+    "total_amount": 325.49
   },
   {
     "vendor_name": "Client Company 1067 LLC",
@@ -1692,15 +1716,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Design",
+        "quantity": 6.0,
+        "unit_price": 484.44,
+        "total_price": 2906.64
+      },
+      {
         "description": "Consulting",
-        "quantity": 2.0,
-        "unit_price": 254.78,
-        "total_price": 509.56
+        "quantity": 3.0,
+        "unit_price": 218.31,
+        "total_price": 654.93
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 288.6,
+        "total_price": 1154.4
+      },
+      {
+        "description": "Consulting",
+        "quantity": 3.0,
+        "unit_price": 465.43,
+        "total_price": 1396.29
       }
     ],
-    "subtotal": 509.56,
-    "tax_amount": 40.76,
-    "total_amount": 550.32
+    "subtotal": 6112.26,
+    "tax_amount": 488.98,
+    "total_amount": 6601.24
   },
   {
     "vendor_name": "Client Company 1068 LLC",
@@ -1709,27 +1751,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 7.0,
-        "unit_price": 151.18,
-        "total_price": 1058.26
+        "description": "Consulting",
+        "quantity": 5.0,
+        "unit_price": 375.37,
+        "total_price": 1876.85
       },
       {
         "description": "Consulting",
-        "quantity": 2.0,
-        "unit_price": 152.72,
-        "total_price": 305.44
-      },
-      {
-        "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 323.28,
-        "total_price": 1293.12
+        "quantity": 6.0,
+        "unit_price": 116.57,
+        "total_price": 699.42
       }
     ],
-    "subtotal": 2656.82,
-    "tax_amount": 212.55,
-    "total_amount": 2869.37
+    "subtotal": 2576.27,
+    "tax_amount": 206.1,
+    "total_amount": 2782.37
   },
   {
     "vendor_name": "Client Company 1069 LLC",
@@ -1738,15 +1774,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 8.0,
-        "unit_price": 309.78,
-        "total_price": 2478.24
+        "description": "Consulting",
+        "quantity": 2.0,
+        "unit_price": 174.67,
+        "total_price": 349.34
       }
     ],
-    "subtotal": 2478.24,
-    "tax_amount": 198.26,
-    "total_amount": 2676.5
+    "subtotal": 349.34,
+    "tax_amount": 27.95,
+    "total_amount": 377.29
   },
   {
     "vendor_name": "Client Company 1070 LLC",
@@ -1756,14 +1792,20 @@
     "line_items": [
       {
         "description": "Software License",
-        "quantity": 1.0,
-        "unit_price": 107.09,
-        "total_price": 107.09
+        "quantity": 6.0,
+        "unit_price": 306.24,
+        "total_price": 1837.44
+      },
+      {
+        "description": "Design",
+        "quantity": 4.0,
+        "unit_price": 362.84,
+        "total_price": 1451.36
       }
     ],
-    "subtotal": 107.09,
-    "tax_amount": 8.57,
-    "total_amount": 115.66
+    "subtotal": 3288.8,
+    "tax_amount": 263.1,
+    "total_amount": 3551.9
   },
   {
     "vendor_name": "Client Company 1071 LLC",
@@ -1772,33 +1814,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 9.0,
-        "unit_price": 107.75,
-        "total_price": 969.75
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 2.0,
-        "unit_price": 227.23,
-        "total_price": 454.46
-      },
-      {
-        "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 122.76,
-        "total_price": 491.04
-      },
-      {
-        "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 452.31,
-        "total_price": 1809.24
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 197.35,
+        "total_price": 1184.1
       }
     ],
-    "subtotal": 3724.49,
-    "tax_amount": 297.96,
-    "total_amount": 4022.45
+    "subtotal": 1184.1,
+    "tax_amount": 94.73,
+    "total_amount": 1278.83
   },
   {
     "vendor_name": "Client Company 1072 LLC",
@@ -1808,26 +1832,20 @@
     "line_items": [
       {
         "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 270.83,
-        "total_price": 2708.3
+        "quantity": 6.0,
+        "unit_price": 326.09,
+        "total_price": 1956.54
       },
       {
         "description": "Consulting",
         "quantity": 3.0,
-        "unit_price": 415.31,
-        "total_price": 1245.93
-      },
-      {
-        "description": "Software License",
-        "quantity": 9.0,
-        "unit_price": 309.6,
-        "total_price": 2786.4
+        "unit_price": 367.1,
+        "total_price": 1101.3
       }
     ],
-    "subtotal": 6740.63,
-    "tax_amount": 539.25,
-    "total_amount": 7279.88
+    "subtotal": 3057.84,
+    "tax_amount": 244.63,
+    "total_amount": 3302.47
   },
   {
     "vendor_name": "Client Company 1073 LLC",
@@ -1837,14 +1855,20 @@
     "line_items": [
       {
         "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 464.4,
-        "total_price": 1857.6
+        "quantity": 9.0,
+        "unit_price": 240.03,
+        "total_price": 2160.27
+      },
+      {
+        "description": "Support",
+        "quantity": 2.0,
+        "unit_price": 297.22,
+        "total_price": 594.44
       }
     ],
-    "subtotal": 1857.6,
-    "tax_amount": 148.61,
-    "total_amount": 2006.21
+    "subtotal": 2754.71,
+    "tax_amount": 220.38,
+    "total_amount": 2975.09
   },
   {
     "vendor_name": "Client Company 1074 LLC",
@@ -1853,33 +1877,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 374.81,
-        "total_price": 3748.1
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 151.69,
+        "total_price": 910.14
       },
       {
         "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 123.26,
-        "total_price": 493.04
-      },
-      {
-        "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 173.0,
-        "total_price": 346.0
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 3.0,
-        "unit_price": 498.96,
-        "total_price": 1496.88
+        "quantity": 1.0,
+        "unit_price": 407.65,
+        "total_price": 407.65
       }
     ],
-    "subtotal": 6084.02,
-    "tax_amount": 486.72,
-    "total_amount": 6570.74
+    "subtotal": 1317.79,
+    "tax_amount": 105.42,
+    "total_amount": 1423.21
   },
   {
     "vendor_name": "Client Company 1075 LLC",
@@ -1888,33 +1900,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 4.0,
-        "unit_price": 466.22,
-        "total_price": 1864.88
+        "description": "Software License",
+        "quantity": 6.0,
+        "unit_price": 171.3,
+        "total_price": 1027.8
       },
       {
-        "description": "Support",
-        "quantity": 2.0,
-        "unit_price": 311.48,
-        "total_price": 622.96
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 150.58,
+        "total_price": 1204.64
       },
       {
-        "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 312.67,
-        "total_price": 1250.68
-      },
-      {
-        "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 413.95,
-        "total_price": 827.9
+        "description": "Maintenance",
+        "quantity": 8.0,
+        "unit_price": 253.93,
+        "total_price": 2031.44
       }
     ],
-    "subtotal": 4566.42,
-    "tax_amount": 365.31,
-    "total_amount": 4931.73
+    "subtotal": 4263.88,
+    "tax_amount": 341.11,
+    "total_amount": 4604.99
   },
   {
     "vendor_name": "Client Company 1076 LLC",
@@ -1923,27 +1929,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 4.0,
-        "unit_price": 101.83,
-        "total_price": 407.32
-      },
-      {
         "description": "Maintenance",
-        "quantity": 6.0,
-        "unit_price": 419.66,
-        "total_price": 2517.96
+        "quantity": 1.0,
+        "unit_price": 162.76,
+        "total_price": 162.76
       },
       {
         "description": "Maintenance",
         "quantity": 10.0,
-        "unit_price": 247.67,
-        "total_price": 2476.7
+        "unit_price": 272.36,
+        "total_price": 2723.6
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 160.84,
+        "total_price": 321.68
       }
     ],
-    "subtotal": 5401.98,
-    "tax_amount": 432.16,
-    "total_amount": 5834.14
+    "subtotal": 3208.04,
+    "tax_amount": 256.64,
+    "total_amount": 3464.68
   },
   {
     "vendor_name": "Client Company 1077 LLC",
@@ -1952,33 +1958,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 6.0,
-        "unit_price": 122.8,
-        "total_price": 736.8
-      },
-      {
-        "description": "Software License",
+        "description": "Consulting",
         "quantity": 3.0,
-        "unit_price": 169.01,
-        "total_price": 507.03
+        "unit_price": 134.17,
+        "total_price": 402.51
       },
       {
-        "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 353.76,
-        "total_price": 3537.6
-      },
-      {
-        "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 447.15,
-        "total_price": 894.3
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 325.72,
+        "total_price": 325.72
       }
     ],
-    "subtotal": 5675.73,
-    "tax_amount": 454.06,
-    "total_amount": 6129.79
+    "subtotal": 728.23,
+    "tax_amount": 58.26,
+    "total_amount": 786.49
   },
   {
     "vendor_name": "Client Company 1078 LLC",
@@ -1987,21 +1981,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 3.0,
-        "unit_price": 233.93,
-        "total_price": 701.79
+        "description": "Software License",
+        "quantity": 2.0,
+        "unit_price": 269.1,
+        "total_price": 538.2
       },
       {
-        "description": "Consulting",
-        "quantity": 7.0,
-        "unit_price": 364.29,
-        "total_price": 2550.03
+        "description": "Design",
+        "quantity": 8.0,
+        "unit_price": 399.69,
+        "total_price": 3197.52
+      },
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 492.23,
+        "total_price": 492.23
       }
     ],
-    "subtotal": 3251.82,
-    "tax_amount": 260.15,
-    "total_amount": 3511.97
+    "subtotal": 4227.95,
+    "tax_amount": 338.24,
+    "total_amount": 4566.19
   },
   {
     "vendor_name": "Client Company 1079 LLC",
@@ -2010,15 +2010,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 85.33,
+        "total_price": 170.66
+      },
+      {
         "description": "Design",
-        "quantity": 7.0,
-        "unit_price": 478.49,
-        "total_price": 3349.43
+        "quantity": 3.0,
+        "unit_price": 344.25,
+        "total_price": 1032.75
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 201.61,
+        "total_price": 806.44
       }
     ],
-    "subtotal": 3349.43,
-    "tax_amount": 267.95,
-    "total_amount": 3617.38
+    "subtotal": 2009.85,
+    "tax_amount": 160.79,
+    "total_amount": 2170.64
   },
   {
     "vendor_name": "Client Company 1080 LLC",
@@ -2027,27 +2039,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 9.0,
-        "unit_price": 228.68,
-        "total_price": 2058.12
-      },
-      {
-        "description": "Support",
+        "description": "Maintenance",
         "quantity": 8.0,
-        "unit_price": 189.65,
-        "total_price": 1517.2
-      },
-      {
-        "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 377.38,
-        "total_price": 3773.8
+        "unit_price": 261.13,
+        "total_price": 2089.04
       }
     ],
-    "subtotal": 7349.12,
-    "tax_amount": 587.93,
-    "total_amount": 7937.05
+    "subtotal": 2089.04,
+    "tax_amount": 167.12,
+    "total_amount": 2256.16
   },
   {
     "vendor_name": "Client Company 1081 LLC",
@@ -2056,33 +2056,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 2.0,
-        "unit_price": 363.41,
-        "total_price": 726.82
-      },
-      {
         "description": "Consulting",
-        "quantity": 1.0,
-        "unit_price": 120.18,
-        "total_price": 120.18
-      },
-      {
-        "description": "Consulting",
-        "quantity": 2.0,
-        "unit_price": 193.28,
-        "total_price": 386.56
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 4.0,
-        "unit_price": 167.65,
-        "total_price": 670.6
+        "quantity": 3.0,
+        "unit_price": 292.52,
+        "total_price": 877.56
       }
     ],
-    "subtotal": 1904.16,
-    "tax_amount": 152.33,
-    "total_amount": 2056.49
+    "subtotal": 877.56,
+    "tax_amount": 70.2,
+    "total_amount": 947.76
   },
   {
     "vendor_name": "Client Company 1082 LLC",
@@ -2091,15 +2073,33 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
+        "description": "Software License",
+        "quantity": 10.0,
+        "unit_price": 166.97,
+        "total_price": 1669.7
+      },
+      {
+        "description": "Software License",
+        "quantity": 1.0,
+        "unit_price": 424.64,
+        "total_price": 424.64
+      },
+      {
         "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 98.55,
-        "total_price": 295.65
+        "quantity": 5.0,
+        "unit_price": 469.47,
+        "total_price": 2347.35
+      },
+      {
+        "description": "Support",
+        "quantity": 10.0,
+        "unit_price": 154.22,
+        "total_price": 1542.2
       }
     ],
-    "subtotal": 295.65,
-    "tax_amount": 23.65,
-    "total_amount": 319.3
+    "subtotal": 5983.89,
+    "tax_amount": 478.71,
+    "total_amount": 6462.6
   },
   {
     "vendor_name": "Client Company 1083 LLC",
@@ -2109,26 +2109,26 @@
     "line_items": [
       {
         "description": "Support",
-        "quantity": 9.0,
-        "unit_price": 71.07,
-        "total_price": 639.63
+        "quantity": 3.0,
+        "unit_price": 329.53,
+        "total_price": 988.59
       },
       {
         "description": "Software License",
-        "quantity": 8.0,
-        "unit_price": 125.07,
-        "total_price": 1000.56
+        "quantity": 9.0,
+        "unit_price": 217.91,
+        "total_price": 1961.19
       },
       {
-        "description": "Consulting",
-        "quantity": 4.0,
-        "unit_price": 453.13,
-        "total_price": 1812.52
+        "description": "Design",
+        "quantity": 3.0,
+        "unit_price": 131.74,
+        "total_price": 395.22
       }
     ],
-    "subtotal": 3452.71,
-    "tax_amount": 276.22,
-    "total_amount": 3728.93
+    "subtotal": 3345.0,
+    "tax_amount": 267.6,
+    "total_amount": 3612.6
   },
   {
     "vendor_name": "Client Company 1084 LLC",
@@ -2137,27 +2137,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 10.0,
-        "unit_price": 453.94,
-        "total_price": 4539.4
-      },
-      {
         "description": "Software License",
-        "quantity": 8.0,
-        "unit_price": 151.89,
-        "total_price": 1215.12
-      },
-      {
-        "description": "Consulting",
-        "quantity": 6.0,
-        "unit_price": 458.13,
-        "total_price": 2748.78
+        "quantity": 7.0,
+        "unit_price": 152.58,
+        "total_price": 1068.06
       }
     ],
-    "subtotal": 8503.3,
-    "tax_amount": 680.26,
-    "total_amount": 9183.56
+    "subtotal": 1068.06,
+    "tax_amount": 85.44,
+    "total_amount": 1153.5
   },
   {
     "vendor_name": "Client Company 1085 LLC",
@@ -2167,26 +2155,20 @@
     "line_items": [
       {
         "description": "Design",
-        "quantity": 8.0,
-        "unit_price": 249.01,
-        "total_price": 1992.08
+        "quantity": 7.0,
+        "unit_price": 452.91,
+        "total_price": 3170.37
       },
       {
-        "description": "Software License",
-        "quantity": 9.0,
-        "unit_price": 363.09,
-        "total_price": 3267.81
-      },
-      {
-        "description": "Software License",
+        "description": "Support",
         "quantity": 1.0,
-        "unit_price": 437.04,
-        "total_price": 437.04
+        "unit_price": 427.91,
+        "total_price": 427.91
       }
     ],
-    "subtotal": 5696.93,
-    "tax_amount": 455.75,
-    "total_amount": 6152.68
+    "subtotal": 3598.28,
+    "tax_amount": 287.86,
+    "total_amount": 3886.14
   },
   {
     "vendor_name": "Client Company 1086 LLC",
@@ -2195,27 +2177,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 9.0,
-        "unit_price": 101.6,
-        "total_price": 914.4
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 10.0,
-        "unit_price": 67.98,
-        "total_price": 679.8
-      },
-      {
-        "description": "Software License",
-        "quantity": 2.0,
-        "unit_price": 255.06,
-        "total_price": 510.12
+        "description": "Design",
+        "quantity": 3.0,
+        "unit_price": 203.42,
+        "total_price": 610.26
       }
     ],
-    "subtotal": 2104.32,
-    "tax_amount": 168.35,
-    "total_amount": 2272.67
+    "subtotal": 610.26,
+    "tax_amount": 48.82,
+    "total_amount": 659.08
   },
   {
     "vendor_name": "Client Company 1087 LLC",
@@ -2224,15 +2194,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 10.0,
-        "unit_price": 77.25,
-        "total_price": 772.5
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 135.19,
+        "total_price": 540.76
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 9.0,
+        "unit_price": 246.74,
+        "total_price": 2220.66
       }
     ],
-    "subtotal": 772.5,
-    "tax_amount": 61.8,
-    "total_amount": 834.3
+    "subtotal": 2761.42,
+    "tax_amount": 220.91,
+    "total_amount": 2982.33
   },
   {
     "vendor_name": "Client Company 1088 LLC",
@@ -2241,15 +2217,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 228.75,
-        "total_price": 915.0
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 364.48,
+        "total_price": 1822.4
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 5.0,
+        "unit_price": 137.97,
+        "total_price": 689.85
       }
     ],
-    "subtotal": 915.0,
-    "tax_amount": 73.2,
-    "total_amount": 988.2
+    "subtotal": 2512.25,
+    "tax_amount": 200.98,
+    "total_amount": 2713.23
   },
   {
     "vendor_name": "Client Company 1089 LLC",
@@ -2258,21 +2240,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 269.93,
-        "total_price": 809.79
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 249.46,
+        "total_price": 1746.22
       },
       {
         "description": "Maintenance",
+        "quantity": 1.0,
+        "unit_price": 202.02,
+        "total_price": 202.02
+      },
+      {
+        "description": "Software License",
         "quantity": 10.0,
-        "unit_price": 143.05,
-        "total_price": 1430.5
+        "unit_price": 91.08,
+        "total_price": 910.8
       }
     ],
-    "subtotal": 2240.29,
-    "tax_amount": 179.22,
-    "total_amount": 2419.51
+    "subtotal": 2859.04,
+    "tax_amount": 228.72,
+    "total_amount": 3087.76
   },
   {
     "vendor_name": "Client Company 1090 LLC",
@@ -2281,33 +2269,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 10.0,
-        "unit_price": 79.22,
-        "total_price": 792.2
-      },
-      {
         "description": "Design",
-        "quantity": 4.0,
-        "unit_price": 170.98,
-        "total_price": 683.92
-      },
-      {
-        "description": "Consulting",
-        "quantity": 3.0,
-        "unit_price": 63.24,
-        "total_price": 189.72
-      },
-      {
-        "description": "Consulting",
-        "quantity": 7.0,
-        "unit_price": 129.68,
-        "total_price": 907.76
+        "quantity": 9.0,
+        "unit_price": 66.09,
+        "total_price": 594.81
       }
     ],
-    "subtotal": 2573.6,
-    "tax_amount": 205.89,
-    "total_amount": 2779.49
+    "subtotal": 594.81,
+    "tax_amount": 47.58,
+    "total_amount": 642.39
   },
   {
     "vendor_name": "Client Company 1091 LLC",
@@ -2316,27 +2286,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 6.0,
-        "unit_price": 399.8,
-        "total_price": 2398.8
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 7.0,
-        "unit_price": 79.38,
-        "total_price": 555.66
-      },
-      {
-        "description": "Software License",
+        "description": "Consulting",
         "quantity": 1.0,
-        "unit_price": 460.91,
-        "total_price": 460.91
+        "unit_price": 440.83,
+        "total_price": 440.83
+      },
+      {
+        "description": "Consulting",
+        "quantity": 8.0,
+        "unit_price": 480.4,
+        "total_price": 3843.2
+      },
+      {
+        "description": "Consulting",
+        "quantity": 4.0,
+        "unit_price": 380.9,
+        "total_price": 1523.6
       }
     ],
-    "subtotal": 3415.37,
-    "tax_amount": 273.23,
-    "total_amount": 3688.6
+    "subtotal": 5807.63,
+    "tax_amount": 464.61,
+    "total_amount": 6272.24
   },
   {
     "vendor_name": "Client Company 1092 LLC",
@@ -2345,33 +2315,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 7.0,
-        "unit_price": 353.84,
-        "total_price": 2476.88
-      },
-      {
-        "description": "Software License",
-        "quantity": 1.0,
-        "unit_price": 219.86,
-        "total_price": 219.86
-      },
-      {
-        "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 496.92,
-        "total_price": 3975.36
-      },
-      {
         "description": "Support",
-        "quantity": 5.0,
-        "unit_price": 400.06,
-        "total_price": 2000.3
+        "quantity": 10.0,
+        "unit_price": 172.92,
+        "total_price": 1729.2
+      },
+      {
+        "description": "Maintenance",
+        "quantity": 7.0,
+        "unit_price": 283.86,
+        "total_price": 1987.02
       }
     ],
-    "subtotal": 8672.4,
-    "tax_amount": 693.79,
-    "total_amount": 9366.19
+    "subtotal": 3716.22,
+    "tax_amount": 297.3,
+    "total_amount": 4013.52
   },
   {
     "vendor_name": "Client Company 1093 LLC",
@@ -2380,21 +2338,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 7.0,
-        "unit_price": 94.26,
-        "total_price": 659.82
+        "description": "Support",
+        "quantity": 8.0,
+        "unit_price": 255.01,
+        "total_price": 2040.08
       },
       {
-        "description": "Design",
-        "quantity": 1.0,
-        "unit_price": 431.88,
-        "total_price": 431.88
+        "description": "Software License",
+        "quantity": 4.0,
+        "unit_price": 388.87,
+        "total_price": 1555.48
       }
     ],
-    "subtotal": 1091.7,
-    "tax_amount": 87.34,
-    "total_amount": 1179.04
+    "subtotal": 3595.56,
+    "tax_amount": 287.64,
+    "total_amount": 3883.2
   },
   {
     "vendor_name": "Client Company 1094 LLC",
@@ -2403,15 +2361,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 8.0,
-        "unit_price": 423.94,
-        "total_price": 3391.52
+        "description": "Maintenance",
+        "quantity": 2.0,
+        "unit_price": 436.37,
+        "total_price": 872.74
       }
     ],
-    "subtotal": 3391.52,
-    "tax_amount": 271.32,
-    "total_amount": 3662.84
+    "subtotal": 872.74,
+    "tax_amount": 69.82,
+    "total_amount": 942.56
   },
   {
     "vendor_name": "Client Company 1095 LLC",
@@ -2420,33 +2378,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Software License",
-        "quantity": 6.0,
-        "unit_price": 202.96,
-        "total_price": 1217.76
-      },
-      {
-        "description": "Consulting",
-        "quantity": 7.0,
-        "unit_price": 268.14,
-        "total_price": 1876.98
-      },
-      {
         "description": "Design",
-        "quantity": 8.0,
-        "unit_price": 104.26,
-        "total_price": 834.08
+        "quantity": 4.0,
+        "unit_price": 327.71,
+        "total_price": 1310.84
       },
       {
-        "description": "Software License",
-        "quantity": 3.0,
-        "unit_price": 447.16,
-        "total_price": 1341.48
+        "description": "Maintenance",
+        "quantity": 4.0,
+        "unit_price": 327.86,
+        "total_price": 1311.44
       }
     ],
-    "subtotal": 5270.3,
-    "tax_amount": 421.62,
-    "total_amount": 5691.92
+    "subtotal": 2622.28,
+    "tax_amount": 209.78,
+    "total_amount": 2832.06
   },
   {
     "vendor_name": "Client Company 1096 LLC",
@@ -2455,33 +2401,15 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Consulting",
-        "quantity": 8.0,
-        "unit_price": 311.35,
-        "total_price": 2490.8
-      },
-      {
         "description": "Design",
-        "quantity": 3.0,
-        "unit_price": 449.16,
-        "total_price": 1347.48
-      },
-      {
-        "description": "Software License",
-        "quantity": 5.0,
-        "unit_price": 436.9,
-        "total_price": 2184.5
-      },
-      {
-        "description": "Software License",
-        "quantity": 9.0,
-        "unit_price": 242.1,
-        "total_price": 2178.9
+        "quantity": 6.0,
+        "unit_price": 337.12,
+        "total_price": 2022.72
       }
     ],
-    "subtotal": 8201.68,
-    "tax_amount": 656.13,
-    "total_amount": 8857.81
+    "subtotal": 2022.72,
+    "tax_amount": 161.82,
+    "total_amount": 2184.54
   },
   {
     "vendor_name": "Client Company 1097 LLC",
@@ -2491,26 +2419,32 @@
     "line_items": [
       {
         "description": "Support",
-        "quantity": 7.0,
-        "unit_price": 295.54,
-        "total_price": 2068.78
+        "quantity": 3.0,
+        "unit_price": 391.39,
+        "total_price": 1174.17
       },
       {
         "description": "Design",
-        "quantity": 5.0,
-        "unit_price": 333.63,
-        "total_price": 1668.15
+        "quantity": 4.0,
+        "unit_price": 167.99,
+        "total_price": 671.96
       },
       {
-        "description": "Support",
-        "quantity": 3.0,
-        "unit_price": 95.85,
-        "total_price": 287.55
+        "description": "Consulting",
+        "quantity": 1.0,
+        "unit_price": 213.89,
+        "total_price": 213.89
+      },
+      {
+        "description": "Software License",
+        "quantity": 7.0,
+        "unit_price": 398.37,
+        "total_price": 2788.59
       }
     ],
-    "subtotal": 4024.48,
-    "tax_amount": 321.96,
-    "total_amount": 4346.44
+    "subtotal": 4848.61,
+    "tax_amount": 387.89,
+    "total_amount": 5236.5
   },
   {
     "vendor_name": "Client Company 1098 LLC",
@@ -2519,27 +2453,21 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Maintenance",
-        "quantity": 6.0,
-        "unit_price": 148.48,
-        "total_price": 890.88
+        "description": "Software License",
+        "quantity": 7.0,
+        "unit_price": 388.56,
+        "total_price": 2719.92
       },
       {
-        "description": "Support",
+        "description": "Maintenance",
         "quantity": 4.0,
-        "unit_price": 466.71,
-        "total_price": 1866.84
-      },
-      {
-        "description": "Maintenance",
-        "quantity": 1.0,
-        "unit_price": 253.81,
-        "total_price": 253.81
+        "unit_price": 446.71,
+        "total_price": 1786.84
       }
     ],
-    "subtotal": 3011.53,
-    "tax_amount": 240.92,
-    "total_amount": 3252.45
+    "subtotal": 4506.76,
+    "tax_amount": 360.54,
+    "total_amount": 4867.3
   },
   {
     "vendor_name": "Client Company 1099 LLC",
@@ -2548,33 +2476,27 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Support",
-        "quantity": 10.0,
-        "unit_price": 93.48,
-        "total_price": 934.8
-      },
-      {
         "description": "Consulting",
-        "quantity": 1.0,
-        "unit_price": 390.38,
-        "total_price": 390.38
+        "quantity": 9.0,
+        "unit_price": 186.32,
+        "total_price": 1676.88
       },
       {
-        "description": "Support",
-        "quantity": 8.0,
-        "unit_price": 344.74,
-        "total_price": 2757.92
+        "description": "Maintenance",
+        "quantity": 6.0,
+        "unit_price": 95.46,
+        "total_price": 572.76
       },
       {
         "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 91.27,
-        "total_price": 912.7
+        "quantity": 5.0,
+        "unit_price": 176.38,
+        "total_price": 881.9
       }
     ],
-    "subtotal": 4995.8,
-    "tax_amount": 399.66,
-    "total_amount": 5395.46
+    "subtotal": 3131.54,
+    "tax_amount": 250.52,
+    "total_amount": 3382.06
   },
   {
     "vendor_name": "Client Company 1100 LLC",
@@ -2583,26 +2505,32 @@
     "due_date": "2026-09-17",
     "line_items": [
       {
-        "description": "Design",
-        "quantity": 10.0,
-        "unit_price": 352.65,
-        "total_price": 3526.5
+        "description": "Software License",
+        "quantity": 8.0,
+        "unit_price": 92.78,
+        "total_price": 742.24
       },
       {
-        "description": "Maintenance",
-        "quantity": 9.0,
-        "unit_price": 345.06,
-        "total_price": 3105.54
-      },
-      {
-        "description": "Design",
+        "description": "Consulting",
         "quantity": 7.0,
-        "unit_price": 71.31,
-        "total_price": 499.17
+        "unit_price": 174.45,
+        "total_price": 1221.15
+      },
+      {
+        "description": "Software License",
+        "quantity": 3.0,
+        "unit_price": 431.51,
+        "total_price": 1294.53
+      },
+      {
+        "description": "Design",
+        "quantity": 5.0,
+        "unit_price": 181.99,
+        "total_price": 909.95
       }
     ],
-    "subtotal": 7131.21,
-    "tax_amount": 570.5,
-    "total_amount": 7701.71
+    "subtotal": 4167.87,
+    "tax_amount": 333.43,
+    "total_amount": 4501.3
   }
 ]
